@@ -1,0 +1,2457 @@
+{
+  "version": 1,
+  "cutoff": "2026-09-29",
+  "sources": [
+    {
+      "id": "WHO16",
+      "title": "INSPIRE: seven strategies for ending violence against children",
+      "url": "https://www.who.int/publications/i/item/9789241565356",
+      "date": "2016",
+      "type": "Evidence synthesis",
+      "scope": "Global",
+      "finding": "A multi-sector framework covers laws, norms, environments, caregivers, income, services and education.",
+      "limit": "A framework is not proof that every local adaptation works.",
+      "checked": "2026-09-29",
+      "verification": "Publisher page or primary-source search extract reviewed; not an independent replication."
+    },
+    {
+      "id": "WHO18",
+      "title": "INSPIRE implementation handbook",
+      "url": "https://www.who.int/publications/i/item/inspire-handbook-action-for-implementing-the-seven-strategies-for-ending-violence-against-children",
+      "date": "2018",
+      "type": "Implementation guidance",
+      "scope": "Global",
+      "finding": "Implementation requires choosing interventions that fit the setting and tracking delivery and outcomes.",
+      "limit": "Use trained implementers and local adaptation; this bundle does not reproduce a complete programme manual.",
+      "checked": "2026-09-29",
+      "verification": "Publisher page or primary-source search extract reviewed; not an independent replication."
+    },
+    {
+      "id": "WHOIND",
+      "title": "INSPIRE indicator guidance and results framework",
+      "url": "https://www.who.int/docs/default-source/documents/child-maltreatment/inspire-indicatorguidance-resultsframework.pdf",
+      "date": "2018",
+      "type": "Measurement guidance",
+      "scope": "Global",
+      "finding": "Indicators distinguish programme uptake, risk/protective factors and violence outcomes.",
+      "limit": "Routine reports cannot establish prevalence or causal impact.",
+      "checked": "2026-09-29",
+      "verification": "Publisher page or primary-source search extract reviewed; not an independent replication."
+    },
+    {
+      "id": "CHARTER",
+      "title": "African Charter on the Rights and Welfare of the Child",
+      "url": "https://www.acerwc.org/download/the-charter-english/?wpdmdl=8410",
+      "date": "1990",
+      "type": "Rights instrument",
+      "scope": "African States Parties",
+      "finding": "Non-discrimination, best interests, participation and protection are central obligations.",
+      "limit": "Ratification, domestic law, procedure and effective remedies need country-specific legal review.",
+      "checked": "2026-09-29",
+      "verification": "Publisher page or primary-source search extract reviewed; not an independent replication."
+    },
+    {
+      "id": "ACERWC",
+      "title": "African Committee of Experts on the Rights and Welfare of the Child",
+      "url": "https://www.acerwc.africa/",
+      "date": "Living page",
+      "type": "Institutional infrastructure",
+      "scope": "Africa",
+      "finding": "The Committee provides a continental child-rights framework and publishes decisions and guidance.",
+      "limit": "It is not an emergency response service; do not infer accessibility or deadlines from this summary.",
+      "checked": "2026-09-29",
+      "verification": "Publisher page or primary-source search extract reviewed; not an independent replication."
+    },
+    {
+      "id": "BIRTH24",
+      "title": "The Right Start in Life: 2024 update announcement",
+      "url": "https://www.unicef.org/press-releases/birth-registration-steadily-increases-worldwide-150-million-children-still-invisible",
+      "date": "2024-12",
+      "type": "Descriptive statistics",
+      "scope": "Global / sub-Saharan Africa",
+      "finding": "UNICEF distinguishes unregistered births from registered children who lack certificates.",
+      "limit": "Aggregate estimates conceal local barriers and cannot establish an individual child’s status.",
+      "checked": "2026-09-29",
+      "verification": "Publisher page or primary-source search extract reviewed; not an independent replication."
+    },
+    {
+      "id": "BIRTH25",
+      "title": "Advancing birth registration in Africa",
+      "url": "https://www.unicef.org/esa/media/16016/file/UNICEF-Advancing-Birth-Registration-in%20Africa-2025.pdf",
+      "date": "2025",
+      "type": "Evaluation synthesis",
+      "scope": "Multiple African countries",
+      "finding": "The policy paper synthesises evaluations of UNICEF-supported registration initiatives from 2018–2024.",
+      "limit": "Search extract reviewed; PDF fetch timed out. Detailed programme findings require full-text review.",
+      "checked": "2026-09-29",
+      "verification": "Publisher page or primary-source search extract reviewed; not an independent replication."
+    },
+    {
+      "id": "CRVS",
+      "title": "Digital CRVS systems: practitioner guidance",
+      "url": "https://apai-crvs.uneca.org/sites/default/files/resourcefiles/EN-%20Practitioners%20guide%20for%20digital%20CRVS%20system.pdf",
+      "date": "Date not established",
+      "type": "Technical guidance",
+      "scope": "Africa",
+      "finding": "Digital registration needs human-centred design, access safeguards and personal-data protection.",
+      "limit": "Digitisation itself does not guarantee inclusion; offline access and national legal rules remain essential.",
+      "checked": "2026-09-29",
+      "verification": "Publisher page or primary-source search extract reviewed; not an independent replication."
+    },
+    {
+      "id": "GST17",
+      "title": "Good School Toolkit: violence and injury outcomes",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5602101/",
+      "date": "2017",
+      "type": "Cluster randomised trial",
+      "scope": "42 primary schools, Luwero, Uganda",
+      "finding": "The trial reported reductions in several forms of staff and peer violence following an 18-month intervention.",
+      "limit": "One district; effects varied by outcome and sex. Do not treat the finding as a general anti-racism effect.",
+      "checked": "2026-09-29",
+      "verification": "Publisher page or primary-source search extract reviewed; not an independent replication."
+    },
+    {
+      "id": "GST24",
+      "title": "Good School Toolkit: outcomes in later adolescence",
+      "url": "https://link.springer.com/article/10.1186/s12889-024-19024-5",
+      "date": "2024-06-07",
+      "type": "Nonrandomised follow-up",
+      "scope": "1,910 adolescents, Uganda",
+      "finding": "No evidence of an average long-term effect on peer violence victimisation four years later (aOR 0.81; 95% CI 0.59–1.11).",
+      "limit": "Follow-up comparison was nonrandomised; subgroup signals do not prove universal durable effects.",
+      "checked": "2026-09-29",
+      "verification": "Publisher page or primary-source search extract reviewed; not an independent replication."
+    },
+    {
+      "id": "GSTSCALE",
+      "title": "Good School Toolkit: alternative delivery at scale",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12993334/",
+      "date": "Date not established",
+      "type": "Pre–post study",
+      "scope": "95 Ugandan schools",
+      "finding": "Teacher-reported outcomes offered encouraging signals for delivery through regional resource persons.",
+      "limit": "No randomised comparison in this study and no child outcome interviews; causal and safety conclusions are limited.",
+      "checked": "2026-09-29",
+      "verification": "Publisher page or primary-source search extract reviewed; not an independent replication."
+    },
+    {
+      "id": "PLH",
+      "title": "Parenting for Lifelong Health: Sinovuyo Teen trial",
+      "url": "https://gh.bmj.com/content/3/1/e000539",
+      "date": "2018-01-31",
+      "type": "Cluster randomised trial",
+      "scope": "40 communities, Eastern Cape, South Africa",
+      "finding": "Caregivers reported reduced abuse; adolescent reports of abuse and corporal punishment did not show significant reductions at 5–9 months.",
+      "limit": "Informant differences, lack of blinding and local context limit generalisation; preserve both positive and null findings.",
+      "checked": "2026-09-29",
+      "verification": "Publisher page or primary-source search extract reviewed; not an independent replication."
+    },
+    {
+      "id": "UNESCO25",
+      "title": "Safe to learn and thrive: education and violence prevention",
+      "url": "https://www.unesco.org/en/articles/safe-learn-and-thrive-role-education-ending-violence-against-children-school-and-beyond",
+      "date": "2025-04-02",
+      "type": "Policy synthesis",
+      "scope": "Global",
+      "finding": "Schools can combine curricula, teacher support, governance and links to support services.",
+      "limit": "Government pledges are commitments, not measured implementation or impact.",
+      "checked": "2026-09-29",
+      "verification": "Publisher page or primary-source search extract reviewed; not an independent replication."
+    },
+    {
+      "id": "SCHOOL24",
+      "title": "Regional status of school safety 2024",
+      "url": "https://gadrrres.net/files/css_policy_survey_2024-cesw_africa.pdf",
+      "date": "2024 survey / 2025 collection",
+      "type": "Policy survey",
+      "scope": "12 participating countries in Central, Eastern, Southern and West Africa",
+      "finding": "The framework links safer facilities, continuity management and risk-reduction education with inclusion.",
+      "limit": "Self-reported policy coverage is not proof of implementation; participating countries are not all Africa.",
+      "checked": "2026-09-29",
+      "verification": "Publisher page or primary-source search extract reviewed; not an independent replication."
+    },
+    {
+      "id": "ONLINE23",
+      "title": "Online risk and harm in Eastern and Southern Africa",
+      "url": "https://www.unicef.org/innocenti/reports/online-risk-and-harm-children-eastern-and-southern-africa",
+      "date": "2023-06",
+      "type": "Regional research synthesis",
+      "scope": "Eastern and Southern Africa",
+      "finding": "Children’s experiences provide a regional baseline for understanding digital harm.",
+      "limit": "Not a country ranking; findings do not cover every African population or digital platform.",
+      "checked": "2026-09-29",
+      "verification": "Publisher page or primary-source search extract reviewed; not an independent replication."
+    },
+    {
+      "id": "CHI",
+      "title": "Child Helpline International directory",
+      "url": "https://childhelplineinternational.org/helplines/",
+      "date": "Living directory",
+      "type": "Service directory",
+      "scope": "Africa and other regions",
+      "finding": "Directory lists child helpline organisations by country.",
+      "limit": "Listing is not a live availability check. Confirm age range, language, hours, cost and confidentiality before referring.",
+      "checked": "2026-09-29",
+      "verification": "Publisher page or primary-source search extract reviewed; not an independent replication."
+    },
+    {
+      "id": "CHIDIG",
+      "title": "Child helplines safeguarding children in a digital world",
+      "url": "https://childhelplineinternational.org/wp-content/uploads/2026/02/Best-Practice-Guidelines-Final-Report-ENG.pdf",
+      "date": "2026 URL; document date unconfirmed",
+      "type": "Practice guidance",
+      "scope": "Seven African helpline partners",
+      "finding": "Collaborating helplines include Ethiopia, Kenya, Mozambique, Namibia, South Africa, Tanzania and Uganda.",
+      "limit": "Programme participation does not establish effectiveness or coverage for a particular child.",
+      "checked": "2026-09-29",
+      "verification": "Publisher page or primary-source search extract reviewed; not an independent replication."
+    },
+    {
+      "id": "GSMA26",
+      "title": "Mobile Economy Africa 2026 announcement",
+      "url": "https://www.gsma.com/newsroom/press-release/mobile-technologies-contributed-240-billion-to-africas-economy-in-2025-as-the-continent-enters-a-new-phase-of-digital-transformation/",
+      "date": "2026-06-16",
+      "type": "Industry report",
+      "scope": "Africa",
+      "finding": "Affordability and digital skills remain barriers to mobile internet adoption.",
+      "limit": "Industry source with commercial perspective; national connectivity does not establish household access.",
+      "checked": "2026-09-29",
+      "verification": "Publisher page or primary-source search extract reviewed; not an independent replication."
+    },
+    {
+      "id": "UNHCR",
+      "title": "UNHCR Africa",
+      "url": "https://www.unhcr.org/about-unhcr/where-we-work/africa",
+      "date": "Living page",
+      "type": "Institutional infrastructure",
+      "scope": "Africa",
+      "finding": "UNHCR describes protection, documentation and access-to-service work with partners.",
+      "limit": "Published regional programmes do not guarantee an individual’s eligibility or current service capacity.",
+      "checked": "2026-09-29",
+      "verification": "Publisher page or primary-source search extract reviewed; not an independent replication."
+    },
+    {
+      "id": "UNHCRLEGAL",
+      "title": "UNHCR South Africa: legal assistance",
+      "url": "https://help.unhcr.org/southafrica/get-help/legal/",
+      "date": "Living directory",
+      "type": "Service directory",
+      "scope": "South Africa by province",
+      "finding": "The page lists Lawyers for Human Rights, UCT Refugee Rights Unit and Nelson Mandela University Refugee Rights Centre.",
+      "limit": "Confirm province, appointment requirements, eligibility and current capacity directly.",
+      "checked": "2026-09-29",
+      "verification": "Publisher page or primary-source search extract reviewed; not an independent replication."
+    },
+    {
+      "id": "UNHCRSERV",
+      "title": "UNHCR South Africa: assistance and services",
+      "url": "https://help.unhcr.org/southafrica/assistance-services/",
+      "date": "Living page",
+      "type": "Service directory",
+      "scope": "South Africa",
+      "finding": "UNHCR and partner services are free; targeted assistance can depend on needs and resources.",
+      "limit": "This is not a promise of cash assistance or a substitute for national service rules.",
+      "checked": "2026-09-29",
+      "verification": "Publisher page or primary-source search extract reviewed; not an independent replication."
+    },
+    {
+      "id": "SASSA",
+      "title": "Child Support Grant",
+      "url": "https://www.gov.za/services/child-care-social-benefits/child-support-grant",
+      "date": "Living page",
+      "type": "Government service information",
+      "scope": "South Africa",
+      "finding": "The government publishes eligibility and application information for the Child Support Grant.",
+      "limit": "Amounts and requirements change. This platform does not determine eligibility or accept applications.",
+      "checked": "2026-09-29",
+      "verification": "Publisher page or primary-source search extract reviewed; not an independent replication."
+    },
+    {
+      "id": "RADIO",
+      "title": "Farm Radio International: our work",
+      "url": "https://farmradio.org/our-work/",
+      "date": "Living page",
+      "type": "Network infrastructure",
+      "scope": "Multiple African countries",
+      "finding": "A network of broadcasting partners offers an existing channel for rural communication.",
+      "limit": "Agricultural broadcasting capacity is not proof of child-safeguarding capacity; vet partners first.",
+      "checked": "2026-09-29",
+      "verification": "Publisher page or primary-source search extract reviewed; not an independent replication."
+    },
+    {
+      "id": "UREPORT",
+      "title": "UNICEF U-Report evaluation",
+      "url": "https://www.unicef.org/evaluation/evaluation-unicefs-u-report",
+      "date": "2026 evaluation planned",
+      "type": "Programme / evaluation plan",
+      "scope": "Global including Africa",
+      "finding": "U-Report supports youth participation; the referenced evaluation was planned to conclude in October 2026.",
+      "limit": "No completed evaluation result is claimed as of 2026-09-29. Participation is not representative sampling.",
+      "checked": "2026-09-29",
+      "verification": "Publisher page or primary-source search extract reviewed; not an independent replication."
+    },
+    {
+      "id": "CEWS",
+      "title": "African Union handbook: Continental Early Warning System",
+      "url": "https://au.int/sites/default/files/documents/31829-doc-au_handbook_2020_english_web.pdf",
+      "date": "2020",
+      "type": "Institutional reference",
+      "scope": "Continental",
+      "finding": "CEWS is part of the African Peace and Security Architecture.",
+      "limit": "Institutional background only; not a public emergency dispatch channel or authority to collect intelligence.",
+      "checked": "2026-09-29",
+      "verification": "Publisher page or primary-source search extract reviewed; not an independent replication."
+    },
+    {
+      "id": "WEBLLM",
+      "title": "WebLLM basic usage",
+      "url": "https://webllm.mlc.ai/docs/user/basic_usage.html",
+      "date": "Living documentation",
+      "type": "Technical documentation",
+      "scope": "Browser runtime",
+      "finding": "WebLLM exposes model configuration and a local inference API.",
+      "limit": "Browser/GPU compatibility, downloads, model licences and caches must be checked separately.",
+      "checked": "2026-09-29",
+      "verification": "Publisher page or primary-source search extract reviewed; not an independent replication."
+    },
+    {
+      "id": "TRYSTERO",
+      "title": "Trystero repository and API",
+      "url": "https://github.com/dmotz/trystero",
+      "date": "Living documentation",
+      "type": "Technical documentation",
+      "scope": "WebRTC",
+      "finding": "Trystero provides room discovery and peer data actions across signalling strategies.",
+      "limit": "Signalling uses external infrastructure; room membership does not verify identity, and peer IP metadata may be exposed.",
+      "checked": "2026-09-29",
+      "verification": "Publisher page or primary-source search extract reviewed; not an independent replication."
+    }
+  ],
+  "claims": [
+    {
+      "id": "C01",
+      "text": "A multi-sector framework covers laws, norms, environments, caregivers, income, services and education.",
+      "source": "WHO16",
+      "kind": "Evidence",
+      "strength": "Evidence synthesis",
+      "scope": "Global",
+      "caveat": "A framework is not proof that every local adaptation works."
+    },
+    {
+      "id": "C02",
+      "text": "Implementation requires choosing interventions that fit the setting and tracking delivery and outcomes.",
+      "source": "WHO18",
+      "kind": "Evidence",
+      "strength": "Implementation guidance",
+      "scope": "Global",
+      "caveat": "Use trained implementers and local adaptation; this bundle does not reproduce a complete programme manual."
+    },
+    {
+      "id": "C03",
+      "text": "Indicators distinguish programme uptake, risk/protective factors and violence outcomes.",
+      "source": "WHOIND",
+      "kind": "Evidence",
+      "strength": "Measurement guidance",
+      "scope": "Global",
+      "caveat": "Routine reports cannot establish prevalence or causal impact."
+    },
+    {
+      "id": "C04",
+      "text": "Non-discrimination, best interests, participation and protection are central obligations.",
+      "source": "CHARTER",
+      "kind": "Evidence",
+      "strength": "Rights instrument",
+      "scope": "African States Parties",
+      "caveat": "Ratification, domestic law, procedure and effective remedies need country-specific legal review."
+    },
+    {
+      "id": "C05",
+      "text": "The Committee provides a continental child-rights framework and publishes decisions and guidance.",
+      "source": "ACERWC",
+      "kind": "Evidence",
+      "strength": "Institutional infrastructure",
+      "scope": "Africa",
+      "caveat": "It is not an emergency response service; do not infer accessibility or deadlines from this summary."
+    },
+    {
+      "id": "C06",
+      "text": "UNICEF distinguishes unregistered births from registered children who lack certificates.",
+      "source": "BIRTH24",
+      "kind": "Evidence",
+      "strength": "Descriptive statistics",
+      "scope": "Global / sub-Saharan Africa",
+      "caveat": "Aggregate estimates conceal local barriers and cannot establish an individual child’s status."
+    },
+    {
+      "id": "C07",
+      "text": "The policy paper synthesises evaluations of UNICEF-supported registration initiatives from 2018–2024.",
+      "source": "BIRTH25",
+      "kind": "Evidence",
+      "strength": "Evaluation synthesis",
+      "scope": "Multiple African countries",
+      "caveat": "Search extract reviewed; PDF fetch timed out. Detailed programme findings require full-text review."
+    },
+    {
+      "id": "C08",
+      "text": "Digital registration needs human-centred design, access safeguards and personal-data protection.",
+      "source": "CRVS",
+      "kind": "Evidence",
+      "strength": "Technical guidance",
+      "scope": "Africa",
+      "caveat": "Digitisation itself does not guarantee inclusion; offline access and national legal rules remain essential."
+    },
+    {
+      "id": "C09",
+      "text": "The trial reported reductions in several forms of staff and peer violence following an 18-month intervention.",
+      "source": "GST17",
+      "kind": "Evidence",
+      "strength": "Cluster randomised trial",
+      "scope": "42 primary schools, Luwero, Uganda",
+      "caveat": "One district; effects varied by outcome and sex. Do not treat the finding as a general anti-racism effect."
+    },
+    {
+      "id": "C10",
+      "text": "No evidence of an average long-term effect on peer violence victimisation four years later (aOR 0.81; 95% CI 0.59–1.11).",
+      "source": "GST24",
+      "kind": "Evidence",
+      "strength": "Nonrandomised follow-up",
+      "scope": "1,910 adolescents, Uganda",
+      "caveat": "Follow-up comparison was nonrandomised; subgroup signals do not prove universal durable effects."
+    },
+    {
+      "id": "C11",
+      "text": "Teacher-reported outcomes offered encouraging signals for delivery through regional resource persons.",
+      "source": "GSTSCALE",
+      "kind": "Evidence",
+      "strength": "Pre–post study",
+      "scope": "95 Ugandan schools",
+      "caveat": "No randomised comparison in this study and no child outcome interviews; causal and safety conclusions are limited."
+    },
+    {
+      "id": "C12",
+      "text": "Caregivers reported reduced abuse; adolescent reports of abuse and corporal punishment did not show significant reductions at 5–9 months.",
+      "source": "PLH",
+      "kind": "Evidence",
+      "strength": "Cluster randomised trial",
+      "scope": "40 communities, Eastern Cape, South Africa",
+      "caveat": "Informant differences, lack of blinding and local context limit generalisation; preserve both positive and null findings."
+    },
+    {
+      "id": "C13",
+      "text": "Schools can combine curricula, teacher support, governance and links to support services.",
+      "source": "UNESCO25",
+      "kind": "Evidence",
+      "strength": "Policy synthesis",
+      "scope": "Global",
+      "caveat": "Government pledges are commitments, not measured implementation or impact."
+    },
+    {
+      "id": "C14",
+      "text": "The framework links safer facilities, continuity management and risk-reduction education with inclusion.",
+      "source": "SCHOOL24",
+      "kind": "Evidence",
+      "strength": "Policy survey",
+      "scope": "12 participating countries in Central, Eastern, Southern and West Africa",
+      "caveat": "Self-reported policy coverage is not proof of implementation; participating countries are not all Africa."
+    },
+    {
+      "id": "C15",
+      "text": "Children’s experiences provide a regional baseline for understanding digital harm.",
+      "source": "ONLINE23",
+      "kind": "Evidence",
+      "strength": "Regional research synthesis",
+      "scope": "Eastern and Southern Africa",
+      "caveat": "Not a country ranking; findings do not cover every African population or digital platform."
+    },
+    {
+      "id": "C16",
+      "text": "Directory lists child helpline organisations by country.",
+      "source": "CHI",
+      "kind": "Evidence",
+      "strength": "Service directory",
+      "scope": "Africa and other regions",
+      "caveat": "Listing is not a live availability check. Confirm age range, language, hours, cost and confidentiality before referring."
+    },
+    {
+      "id": "C17",
+      "text": "Collaborating helplines include Ethiopia, Kenya, Mozambique, Namibia, South Africa, Tanzania and Uganda.",
+      "source": "CHIDIG",
+      "kind": "Evidence",
+      "strength": "Practice guidance",
+      "scope": "Seven African helpline partners",
+      "caveat": "Programme participation does not establish effectiveness or coverage for a particular child."
+    },
+    {
+      "id": "C18",
+      "text": "Affordability and digital skills remain barriers to mobile internet adoption.",
+      "source": "GSMA26",
+      "kind": "Evidence",
+      "strength": "Industry report",
+      "scope": "Africa",
+      "caveat": "Industry source with commercial perspective; national connectivity does not establish household access."
+    },
+    {
+      "id": "C19",
+      "text": "UNHCR describes protection, documentation and access-to-service work with partners.",
+      "source": "UNHCR",
+      "kind": "Evidence",
+      "strength": "Institutional infrastructure",
+      "scope": "Africa",
+      "caveat": "Published regional programmes do not guarantee an individual’s eligibility or current service capacity."
+    },
+    {
+      "id": "C20",
+      "text": "The page lists Lawyers for Human Rights, UCT Refugee Rights Unit and Nelson Mandela University Refugee Rights Centre.",
+      "source": "UNHCRLEGAL",
+      "kind": "Evidence",
+      "strength": "Service directory",
+      "scope": "South Africa by province",
+      "caveat": "Confirm province, appointment requirements, eligibility and current capacity directly."
+    },
+    {
+      "id": "C21",
+      "text": "UNHCR and partner services are free; targeted assistance can depend on needs and resources.",
+      "source": "UNHCRSERV",
+      "kind": "Evidence",
+      "strength": "Service directory",
+      "scope": "South Africa",
+      "caveat": "This is not a promise of cash assistance or a substitute for national service rules."
+    },
+    {
+      "id": "C22",
+      "text": "The government publishes eligibility and application information for the Child Support Grant.",
+      "source": "SASSA",
+      "kind": "Evidence",
+      "strength": "Government service information",
+      "scope": "South Africa",
+      "caveat": "Amounts and requirements change. This platform does not determine eligibility or accept applications."
+    },
+    {
+      "id": "C23",
+      "text": "A network of broadcasting partners offers an existing channel for rural communication.",
+      "source": "RADIO",
+      "kind": "Evidence",
+      "strength": "Network infrastructure",
+      "scope": "Multiple African countries",
+      "caveat": "Agricultural broadcasting capacity is not proof of child-safeguarding capacity; vet partners first."
+    },
+    {
+      "id": "C24",
+      "text": "U-Report supports youth participation; the referenced evaluation was planned to conclude in October 2026.",
+      "source": "UREPORT",
+      "kind": "Evidence",
+      "strength": "Programme / evaluation plan",
+      "scope": "Global including Africa",
+      "caveat": "No completed evaluation result is claimed as of 2026-09-29. Participation is not representative sampling."
+    },
+    {
+      "id": "C25",
+      "text": "CEWS is part of the African Peace and Security Architecture.",
+      "source": "CEWS",
+      "kind": "Evidence",
+      "strength": "Institutional reference",
+      "scope": "Continental",
+      "caveat": "Institutional background only; not a public emergency dispatch channel or authority to collect intelligence."
+    }
+  ],
+  "strategies": [
+    {
+      "id": "S01",
+      "title": "Respond to a disclosure safely",
+      "domain": "Immediate safety",
+      "roles": [
+        "Caregiver",
+        "Educator",
+        "NGO practitioner",
+        "Youth ally"
+      ],
+      "time": "Now",
+      "tier": 0,
+      "refs": [
+        "CHARTER",
+        "WHO18"
+      ],
+      "goal": "Help a child reach safe, appropriate support without requiring a detailed account.",
+      "pre": [
+        "A private but accountable setting",
+        "A trusted adult who is not implicated",
+        "Locally verified referral options"
+      ],
+      "steps": [
+        "Listen calmly; thank the child and avoid blame or leading questions.",
+        "Explain what you can keep private and any locally applicable reporting duties; do not promise secrecy.",
+        "Ask what would help them feel safer now; offer choices and accessible communication.",
+        "For immediate danger or injury, seek locally appropriate urgent help if safe; otherwise agree a safe referral with a trained provider."
+      ],
+      "failure": "Repeated retelling, an automatic parental notification or contacting an implicated official can increase harm.",
+      "metric": "Process: proportion of referral options whose safety and availability were checked; never count disclosures as success.",
+      "links": [
+        "helplines",
+        "clinics"
+      ],
+      "kind": "Inference",
+      "stop": "Pause if a child fears retaliation, a referral is unsafe, confidentiality cannot be protected, or a proposed action involves coercion. Seek a vetted independent safeguarding professional; do not confront an alleged perpetrator.",
+      "review": "Agree a safe review method and date before acting. A completed checklist is not proof of safety."
+    },
+    {
+      "id": "S02",
+      "title": "Plan against retaliation",
+      "domain": "Immediate safety",
+      "roles": [
+        "NGO practitioner",
+        "Caregiver",
+        "Legal advocate"
+      ],
+      "time": "Now",
+      "tier": 1,
+      "refs": [
+        "CHARTER",
+        "WHO18"
+      ],
+      "goal": "Reduce foreseeable harm before a complaint or referral.",
+      "pre": [
+        "Child’s views sought without pressure",
+        "Independent safeguarding lead"
+      ],
+      "steps": [
+        "Map risks to access, housing, schooling and caregiver support without naming alleged perpetrators in this app.",
+        "Agree safe contact timing and a neutral message; do not leave revealing notifications.",
+        "Choose an alternative referral if the institution receiving the complaint is implicated.",
+        "Set an escalation and stop decision with a vetted professional; review after every material change."
+      ],
+      "failure": "Public allegations, confrontation and automatic notifications may expose the child.",
+      "metric": "Process: plans reviewed for retaliation before any external action; outcome: child-reported acceptability via a safe optional channel.",
+      "links": [
+        "legal",
+        "helplines"
+      ],
+      "kind": "Inference",
+      "stop": "Pause if a child fears retaliation, a referral is unsafe, confidentiality cannot be protected, or a proposed action involves coercion. Seek a vetted independent safeguarding professional; do not confront an alleged perpetrator.",
+      "review": "Agree a safe review method and date before acting. A completed checklist is not proof of safety."
+    },
+    {
+      "id": "S03",
+      "title": "Challenge discriminatory school exclusion",
+      "domain": "Racism and exclusion",
+      "roles": [
+        "Educator",
+        "Caregiver",
+        "Legal advocate"
+      ],
+      "time": "7–30 days",
+      "tier": 1,
+      "refs": [
+        "CHARTER",
+        "UNESCO25"
+      ],
+      "goal": "Restore equitable access without public identification of the child.",
+      "pre": [
+        "A safe education contact",
+        "Local enrolment rules checked",
+        "Child’s preferred remedy understood"
+      ],
+      "steps": [
+        "Ask for the relevant admissions rule and accessible explanation of any refusal.",
+        "Seek an interim learning arrangement through a trusted education focal point.",
+        "Obtain confidential advice on lawful review or complaint options and deadlines.",
+        "Review whether language, fees, transport, disability or documentation still block attendance."
+      ],
+      "failure": "A nominal admission may leave bullying or hidden fees unresolved.",
+      "metric": "Outcome: sustained access and sense of belonging; process: time to accessible response.",
+      "links": [
+        "schools",
+        "legal",
+        "registration"
+      ],
+      "kind": "Inference",
+      "stop": "Pause if a child fears retaliation, a referral is unsafe, confidentiality cannot be protected, or a proposed action involves coercion. Seek a vetted independent safeguarding professional; do not confront an alleged perpetrator.",
+      "review": "Agree a safe review method and date before acting. A completed checklist is not proof of safety."
+    },
+    {
+      "id": "S04",
+      "title": "Build a whole-school anti-racism programme",
+      "domain": "Racism and exclusion",
+      "roles": [
+        "Educator",
+        "NGO practitioner",
+        "Policymaker"
+      ],
+      "time": "3–12 months",
+      "tier": 2,
+      "refs": [
+        "UNESCO25",
+        "GST17",
+        "GST24"
+      ],
+      "goal": "Change adult practice and school procedures alongside classroom learning.",
+      "pre": [
+        "Leadership commitment",
+        "Independent complaint option",
+        "Protected staff learning time"
+      ],
+      "steps": [
+        "Audit policies and anonymised access barriers with voluntary community participation.",
+        "Train staff on discriminatory discipline, respectful language and response to bias.",
+        "Review learning materials for stereotypes with locally knowledgeable educators.",
+        "Pilot inclusive classroom and reporting routines, then review unequal effects before expansion."
+      ],
+      "failure": "One-off awareness sessions can leave institutional barriers intact; violence studies are not direct proof of anti-racism impact.",
+      "metric": "Outcome: voluntary belonging feedback and equitable participation; balancing: exclusion or retaliation after complaints.",
+      "links": [
+        "schools",
+        "community"
+      ],
+      "kind": "Inference",
+      "stop": "Pause if a child fears retaliation, a referral is unsafe, confidentiality cannot be protected, or a proposed action involves coercion. Seek a vetted independent safeguarding professional; do not confront an alleged perpetrator.",
+      "review": "Agree a safe review method and date before acting. A completed checklist is not proof of safety."
+    },
+    {
+      "id": "S05",
+      "title": "Respond to bullying without forced mediation",
+      "domain": "Racism and exclusion",
+      "roles": [
+        "Educator",
+        "Youth ally",
+        "Caregiver"
+      ],
+      "time": "Now–30 days",
+      "tier": 1,
+      "refs": [
+        "UNESCO25",
+        "ONLINE23"
+      ],
+      "goal": "Interrupt harm and restore access without burdening the targeted child.",
+      "pre": [
+        "Safe adult support",
+        "School safeguarding procedure"
+      ],
+      "steps": [
+        "Help the targeted child choose a safe adult and protective changes.",
+        "Separate immediate protection from later fact-finding by trained staff.",
+        "Address adult conduct and bystander norms through policy and supervision.",
+        "Review recurrence and access after the intervention."
+      ],
+      "failure": "Forced face-to-face reconciliation can reinforce a power imbalance; exclusion of the victim is not protection.",
+      "metric": "Outcome: recurrence and child-defined access; process: response time without disclosure quotas.",
+      "links": [
+        "schools",
+        "helplines"
+      ],
+      "kind": "Inference",
+      "stop": "Pause if a child fears retaliation, a referral is unsafe, confidentiality cannot be protected, or a proposed action involves coercion. Seek a vetted independent safeguarding professional; do not confront an alleged perpetrator.",
+      "review": "Agree a safe review method and date before acting. A completed checklist is not proof of safety."
+    },
+    {
+      "id": "S06",
+      "title": "Support religious and minority inclusion",
+      "domain": "Racism and exclusion",
+      "roles": [
+        "Educator",
+        "Community leader",
+        "Legal advocate"
+      ],
+      "time": "30–90 days",
+      "tier": 1,
+      "refs": [
+        "CHARTER",
+        "UNESCO25"
+      ],
+      "goal": "Remove unequal treatment tied to religion, ethnicity, nationality, descent or family status.",
+      "pre": [
+        "No identity list",
+        "Minority-led voluntary consultation"
+      ],
+      "steps": [
+        "Review uniform, food, calendar, language and admissions policies for barriers.",
+        "Offer reasonable, locally lawful accommodations through confidential requests.",
+        "Check whether the accommodation stigmatizes or isolates the child.",
+        "Use independent legal support where institutional discrimination persists."
+      ],
+      "failure": "Token representation or publishing minority membership can create targeting risk.",
+      "metric": "Outcome: access to ordinary activities without added burdens; measure anonymously when safe.",
+      "links": [
+        "schools",
+        "legal",
+        "community"
+      ],
+      "kind": "Inference",
+      "stop": "Pause if a child fears retaliation, a referral is unsafe, confidentiality cannot be protected, or a proposed action involves coercion. Seek a vetted independent safeguarding professional; do not confront an alleged perpetrator.",
+      "review": "Agree a safe review method and date before acting. A completed checklist is not proof of safety."
+    },
+    {
+      "id": "S07",
+      "title": "Make services disability-accessible",
+      "domain": "Access and disability",
+      "roles": [
+        "Educator",
+        "NGO practitioner",
+        "Policymaker"
+      ],
+      "time": "30–90 days",
+      "tier": 1,
+      "refs": [
+        "CHARTER",
+        "SCHOOL24"
+      ],
+      "goal": "Allow children with disabilities to use the same protection pathways.",
+      "pre": [
+        "Accessible communication support",
+        "Voluntary input from disability organisations"
+      ],
+      "steps": [
+        "Walk through the referral journey for physical, sensory, communication and cognitive barriers.",
+        "Provide plain-language, large-print and supported communication options.",
+        "Budget for accessible transport, interpretation and support people chosen by the child where appropriate.",
+        "Test access without requiring proof of disability in this platform."
+      ],
+      "failure": "An online-only or text-only pathway can exclude children; caregivers may not always be safe intermediaries.",
+      "metric": "Process: essential pathway steps available in accessible formats; outcome: successful access reported voluntarily.",
+      "links": [
+        "clinics",
+        "schools",
+        "community"
+      ],
+      "kind": "Inference",
+      "stop": "Pause if a child fears retaliation, a referral is unsafe, confidentiality cannot be protected, or a proposed action involves coercion. Seek a vetted independent safeguarding professional; do not confront an alleged perpetrator.",
+      "review": "Agree a safe review method and date before acting. A completed checklist is not proof of safety."
+    },
+    {
+      "id": "S08",
+      "title": "Bridge language and literacy barriers",
+      "domain": "Access and disability",
+      "roles": [
+        "Educator",
+        "Community leader",
+        "NGO practitioner"
+      ],
+      "time": "7–30 days",
+      "tier": 0,
+      "refs": [
+        "CHARTER",
+        "GSMA26"
+      ],
+      "goal": "Make rights and referrals understandable without dependence on a smartphone.",
+      "pre": [
+        "Trusted interpreters bound by confidentiality"
+      ],
+      "steps": [
+        "Identify languages and formats through community-level consultation without collecting child identities.",
+        "Prepare a short spoken and printed explanation with a locally reviewed translation.",
+        "Check understanding by inviting the person to explain choices in their own words.",
+        "Offer an interpreter who is not connected to an alleged perpetrator."
+      ],
+      "failure": "Machine translation can alter legal or safeguarding meaning; children should not interpret traumatic disclosures for adults.",
+      "metric": "Process: material reviewed by speakers and usable without internet; outcome: understood choices.",
+      "links": [
+        "community",
+        "radio"
+      ],
+      "kind": "Inference",
+      "stop": "Pause if a child fears retaliation, a referral is unsafe, confidentiality cannot be protected, or a proposed action involves coercion. Seek a vetted independent safeguarding professional; do not confront an alleged perpetrator.",
+      "review": "Agree a safe review method and date before acting. A completed checklist is not proof of safety."
+    },
+    {
+      "id": "S09",
+      "title": "Navigate birth registration barriers",
+      "domain": "Documentation",
+      "roles": [
+        "Caregiver",
+        "Legal advocate",
+        "NGO practitioner"
+      ],
+      "time": "7–90 days",
+      "tier": 1,
+      "refs": [
+        "BIRTH24",
+        "BIRTH25",
+        "CRVS"
+      ],
+      "goal": "Distinguish notification, registration and certificate access, then seek lawful assistance.",
+      "pre": [
+        "Registrar requirements verified",
+        "No document uploads here"
+      ],
+      "steps": [
+        "Ask the official registrar or a trusted legal adviser about the specific stage, fees, late-registration rules and alternatives.",
+        "Prepare a checklist outside this app in an appropriately protected case system.",
+        "Check school and clinic interim-access options while documentation is pending.",
+        "Follow up on lawful review routes for refusals; never pay unofficial fees or invent evidence."
+      ],
+      "failure": "Digitisation can shift costs and exclude families without connectivity; registration does not automatically resolve nationality.",
+      "metric": "Outcome: access to requested service and completion of the appropriate registration stage; record aggregate counts only.",
+      "links": [
+        "registration",
+        "legal",
+        "clinics"
+      ],
+      "kind": "Inference",
+      "stop": "Pause if a child fears retaliation, a referral is unsafe, confidentiality cannot be protected, or a proposed action involves coercion. Seek a vetted independent safeguarding professional; do not confront an alleged perpetrator.",
+      "review": "Agree a safe review method and date before acting. A completed checklist is not proof of safety."
+    },
+    {
+      "id": "S10",
+      "title": "Address statelessness and nationality risk",
+      "domain": "Documentation",
+      "roles": [
+        "Legal advocate",
+        "NGO practitioner"
+      ],
+      "time": "30–180 days",
+      "tier": 2,
+      "refs": [
+        "CHARTER",
+        "UNHCR",
+        "UNHCRLEGAL"
+      ],
+      "goal": "Connect families with qualified advice on nationality and legal identity.",
+      "pre": [
+        "Specialist legal support",
+        "Safe handling of status information"
+      ],
+      "steps": [
+        "Identify a vetted legal partner experienced in nationality, statelessness and children.",
+        "Separate birth registration questions from citizenship and immigration questions.",
+        "Ask counsel to review deadlines, appeal routes and implications of disclosure.",
+        "Maintain access to essential services through lawful interim arrangements."
+      ],
+      "failure": "Assuming a birth certificate confers citizenship can mislead; exposing immigration status may create harm.",
+      "metric": "Process: specialist review and safe referral completion; outcome: lawful remedy assessed by counsel.",
+      "links": [
+        "legal",
+        "registration"
+      ],
+      "kind": "Inference",
+      "stop": "Pause if a child fears retaliation, a referral is unsafe, confidentiality cannot be protected, or a proposed action involves coercion. Seek a vetted independent safeguarding professional; do not confront an alleged perpetrator.",
+      "review": "Agree a safe review method and date before acting. A completed checklist is not proof of safety."
+    },
+    {
+      "id": "S11",
+      "title": "Support displaced and refugee children",
+      "domain": "Displacement",
+      "roles": [
+        "NGO practitioner",
+        "Educator",
+        "Legal advocate"
+      ],
+      "time": "Now–90 days",
+      "tier": 1,
+      "refs": [
+        "UNHCR",
+        "UNHCRSERV"
+      ],
+      "goal": "Maintain care, learning and service access during displacement.",
+      "pre": [
+        "Current local service mapping",
+        "Qualified child protection partner"
+      ],
+      "steps": [
+        "Use official country help information to verify safe, free support options.",
+        "Seek inclusive enrolment and continuity arrangements with trusted schools and clinics.",
+        "Refer separated or unaccompanied children to trained protection services; do not conduct informal reunification.",
+        "Plan confidential follow-up that does not expose location or status."
+      ],
+      "failure": "Unverified transport, informal fostering and public family tracing can enable exploitation.",
+      "metric": "Outcome: continuity of support; process: referrals checked for eligibility and safety.",
+      "links": [
+        "refugee",
+        "schools",
+        "clinics"
+      ],
+      "kind": "Inference",
+      "stop": "Pause if a child fears retaliation, a referral is unsafe, confidentiality cannot be protected, or a proposed action involves coercion. Seek a vetted independent safeguarding professional; do not confront an alleged perpetrator.",
+      "review": "Agree a safe review method and date before acting. A completed checklist is not proof of safety."
+    },
+    {
+      "id": "S12",
+      "title": "Prevent violent discipline in schools",
+      "domain": "Violence prevention",
+      "roles": [
+        "Educator",
+        "Policymaker",
+        "NGO practitioner"
+      ],
+      "time": "3–18 months",
+      "tier": 2,
+      "refs": [
+        "GST17",
+        "GST24",
+        "GSTSCALE"
+      ],
+      "goal": "Replace violent discipline through a supported whole-school approach.",
+      "pre": [
+        "Leadership resources",
+        "Trained facilitators",
+        "Independent reporting"
+      ],
+      "steps": [
+        "Review a complete, evidence-informed programme with its implementer rather than extracting isolated exercises.",
+        "Train and supervise staff in nonviolent classroom management.",
+        "Support student participation without making children enforce adult behaviour.",
+        "Track implementation, child experience and unintended harms; reassess at school transitions."
+      ],
+      "failure": "Short-term change may not persist; teacher-only self-report can conceal harm.",
+      "metric": "Outcome: safely collected violence and belonging measures; process: observed delivery quality.",
+      "links": [
+        "schools",
+        "community"
+      ],
+      "kind": "Inference",
+      "stop": "Pause if a child fears retaliation, a referral is unsafe, confidentiality cannot be protected, or a proposed action involves coercion. Seek a vetted independent safeguarding professional; do not confront an alleged perpetrator.",
+      "review": "Agree a safe review method and date before acting. A completed checklist is not proof of safety."
+    },
+    {
+      "id": "S13",
+      "title": "Offer supported caregiver programmes",
+      "domain": "Violence prevention",
+      "roles": [
+        "Caregiver",
+        "NGO practitioner",
+        "Community leader"
+      ],
+      "time": "3–6 months",
+      "tier": 2,
+      "refs": [
+        "PLH",
+        "WHO16"
+      ],
+      "goal": "Strengthen nonviolent caregiving through trained, supervised delivery.",
+      "pre": [
+        "Trained facilitators",
+        "Participation voluntary",
+        "Referral route for active abuse"
+      ],
+      "steps": [
+        "Review the full parenting programme and its suitability for language, age and family setting.",
+        "Offer practical access support such as safe scheduling and transport.",
+        "Teach through supported practice and supervision, avoiding blame or public disclosure.",
+        "Compare caregiver and adolescent feedback separately and review unintended effects."
+      ],
+      "failure": "Caregiver improvement reports can differ from adolescent experience; active danger needs separate protection.",
+      "metric": "Outcome: child and caregiver perspectives reported separately; process: completion and facilitator supervision.",
+      "links": [
+        "community",
+        "clinics"
+      ],
+      "kind": "Inference",
+      "stop": "Pause if a child fears retaliation, a referral is unsafe, confidentiality cannot be protected, or a proposed action involves coercion. Seek a vetted independent safeguarding professional; do not confront an alleged perpetrator.",
+      "review": "Agree a safe review method and date before acting. A completed checklist is not proof of safety."
+    },
+    {
+      "id": "S14",
+      "title": "Connect households to social protection",
+      "domain": "Economic exclusion",
+      "roles": [
+        "NGO practitioner",
+        "Caregiver",
+        "Policymaker"
+      ],
+      "time": "7–90 days",
+      "tier": 1,
+      "refs": [
+        "SASSA",
+        "WHO16"
+      ],
+      "goal": "Reduce access barriers to existing lawful support.",
+      "pre": [
+        "Current eligibility confirmed",
+        "Independent grievance route"
+      ],
+      "steps": [
+        "Map the official benefit or fee-waiver scheme and accessible application channel.",
+        "Explain requirements, alternatives and appeal routes with a qualified local partner.",
+        "Check whether documentation, transport, digital access or informal charges prevent access.",
+        "Review exclusion errors and advocate for service improvements with aggregate evidence."
+      ],
+      "failure": "Cash support alone does not establish safety; household control of funds can create conflict.",
+      "metric": "Outcome: eligible households accessing support; balancing: coercion, hidden costs and exclusion.",
+      "links": [
+        "social",
+        "registration",
+        "legal"
+      ],
+      "kind": "Inference",
+      "stop": "Pause if a child fears retaliation, a referral is unsafe, confidentiality cannot be protected, or a proposed action involves coercion. Seek a vetted independent safeguarding professional; do not confront an alleged perpetrator.",
+      "review": "Agree a safe review method and date before acting. A completed checklist is not proof of safety."
+    },
+    {
+      "id": "S15",
+      "title": "Protect against online harassment",
+      "domain": "Digital safety",
+      "roles": [
+        "Youth ally",
+        "Caregiver",
+        "Educator"
+      ],
+      "time": "Now–30 days",
+      "tier": 0,
+      "refs": [
+        "ONLINE23",
+        "CHIDIG"
+      ],
+      "goal": "Support safer choices without removing a child’s voice or access by default.",
+      "pre": [
+        "Trusted support person",
+        "Safe device context"
+      ],
+      "steps": [
+        "Let the child choose support and review account privacy and contact controls together.",
+        "Use platform block, mute and report tools when safe, without engaging harassers.",
+        "Keep only minimal lawful incident references in a protected channel; do not save abusive images here.",
+        "Plan school and offline support if harassment crosses settings."
+      ],
+      "failure": "Confiscation or blame can deter future help-seeking; public responses can amplify abuse.",
+      "metric": "Outcome: child-defined reduction in unwanted contact; process: support choice respected.",
+      "links": [
+        "helplines",
+        "mobile",
+        "schools"
+      ],
+      "kind": "Inference",
+      "stop": "Pause if a child fears retaliation, a referral is unsafe, confidentiality cannot be protected, or a proposed action involves coercion. Seek a vetted independent safeguarding professional; do not confront an alleged perpetrator.",
+      "review": "Agree a safe review method and date before acting. A completed checklist is not proof of safety."
+    },
+    {
+      "id": "S16",
+      "title": "Respond to sexual coercion or exploitation",
+      "domain": "Digital safety",
+      "roles": [
+        "NGO practitioner",
+        "Educator",
+        "Caregiver"
+      ],
+      "time": "Now",
+      "tier": 1,
+      "refs": [
+        "CHIDIG",
+        "WHO18"
+      ],
+      "goal": "Get trained help without spreading harmful content or negotiating with offenders.",
+      "pre": [
+        "Vetted child protection referral",
+        "Urgent health pathway when needed"
+      ],
+      "steps": [
+        "Reassure the child that coercion is not their fault and avoid detailed questioning.",
+        "Seek trained local child protection or health support, taking retaliation risks into account.",
+        "Do not download, forward or upload sexual images of minors; ask qualified services how to report safely.",
+        "Do not pay, threaten, entrap or negotiate with the alleged offender."
+      ],
+      "failure": "Evidence collecting by untrained adults can retraumatise and spread abuse material.",
+      "metric": "Process: safe referral choice and follow-up; never measure success through collected images or names.",
+      "links": [
+        "helplines",
+        "clinics",
+        "legal"
+      ],
+      "kind": "Inference",
+      "stop": "Pause if a child fears retaliation, a referral is unsafe, confidentiality cannot be protected, or a proposed action involves coercion. Seek a vetted independent safeguarding professional; do not confront an alleged perpetrator.",
+      "review": "Agree a safe review method and date before acting. A completed checklist is not proof of safety."
+    },
+    {
+      "id": "S17",
+      "title": "Use technology without surveillance",
+      "domain": "Digital safety",
+      "roles": [
+        "Policymaker",
+        "NGO practitioner",
+        "Researcher"
+      ],
+      "time": "30–90 days",
+      "tier": 2,
+      "refs": [
+        "CRVS",
+        "GSMA26",
+        "ONLINE23"
+      ],
+      "goal": "Keep protection systems from becoming tools for tracking or exclusion.",
+      "pre": [
+        "Data minimisation review",
+        "Independent safeguarding oversight"
+      ],
+      "steps": [
+        "Remove identity, location and demographic profiling fields from planning tools.",
+        "Separate access to services from participation in research or digital platforms.",
+        "Review retention, deletion, vendor access and offline alternatives before procurement.",
+        "Test misuse scenarios with independent reviewers and publish plain-language limitations."
+      ],
+      "failure": "A safety label does not make tracking, biometric collection or risk scoring acceptable.",
+      "metric": "Process: unnecessary fields removed and deletion tested; outcome: service access without data coercion.",
+      "links": [
+        "mobile",
+        "registration"
+      ],
+      "kind": "Inference",
+      "stop": "Pause if a child fears retaliation, a referral is unsafe, confidentiality cannot be protected, or a proposed action involves coercion. Seek a vetted independent safeguarding professional; do not confront an alleged perpetrator.",
+      "review": "Agree a safe review method and date before acting. A completed checklist is not proof of safety."
+    },
+    {
+      "id": "S18",
+      "title": "Prepare a confidential complaint",
+      "domain": "Accountability",
+      "roles": [
+        "Legal advocate",
+        "Caregiver",
+        "NGO practitioner"
+      ],
+      "time": "7–90 days",
+      "tier": 1,
+      "refs": [
+        "CHARTER",
+        "ACERWC"
+      ],
+      "goal": "Seek a lawful remedy with informed choice and a retaliation plan.",
+      "pre": [
+        "Local legal advice",
+        "Safe recipient verified",
+        "Reporting duties explained"
+      ],
+      "steps": [
+        "Clarify the desired remedy and whether the child wants support pursuing it.",
+        "Have qualified counsel identify jurisdiction, admissibility, deadlines and required information.",
+        "Prepare the minimum necessary material in a secure case system, not this platform.",
+        "Review the response, safety and next lawful step without public escalation by default."
+      ],
+      "failure": "Wrong jurisdiction or unsafe disclosure can close options; continental bodies are not emergency responders.",
+      "metric": "Outcome: meaningful remedy and sustained access; process: timely independent review.",
+      "links": [
+        "legal",
+        "rights"
+      ],
+      "kind": "Inference",
+      "stop": "Pause if a child fears retaliation, a referral is unsafe, confidentiality cannot be protected, or a proposed action involves coercion. Seek a vetted independent safeguarding professional; do not confront an alleged perpetrator.",
+      "review": "Agree a safe review method and date before acting. A completed checklist is not proof of safety."
+    },
+    {
+      "id": "S19",
+      "title": "Improve institutional safeguarding governance",
+      "domain": "Accountability",
+      "roles": [
+        "Policymaker",
+        "NGO practitioner",
+        "Educator"
+      ],
+      "time": "30–180 days",
+      "tier": 2,
+      "refs": [
+        "WHO18",
+        "CHARTER"
+      ],
+      "goal": "Make organisations accountable for prevention and response.",
+      "pre": [
+        "Leadership authority",
+        "Budget",
+        "Independent reporting route"
+      ],
+      "steps": [
+        "Appoint accountable safeguarding roles with conflict-of-interest alternatives.",
+        "Adopt staff conduct, safer recruitment and supervised contact procedures consistent with local law.",
+        "Train staff and make accessible complaint routes visible without disclosure pressure.",
+        "Audit response quality and commission independent review of serious failures."
+      ],
+      "failure": "A signed policy without resources or independence can conceal risk.",
+      "metric": "Process: staff know a safe reporting route; outcome: independently reviewed response quality.",
+      "links": [
+        "schools",
+        "clinics",
+        "community"
+      ],
+      "kind": "Inference",
+      "stop": "Pause if a child fears retaliation, a referral is unsafe, confidentiality cannot be protected, or a proposed action involves coercion. Seek a vetted independent safeguarding professional; do not confront an alleged perpetrator.",
+      "review": "Agree a safe review method and date before acting. A completed checklist is not proof of safety."
+    },
+    {
+      "id": "S20",
+      "title": "Enable meaningful child participation",
+      "domain": "Participation",
+      "roles": [
+        "Youth ally",
+        "Community leader",
+        "Researcher"
+      ],
+      "time": "7–90 days",
+      "tier": 1,
+      "refs": [
+        "CHARTER",
+        "UREPORT"
+      ],
+      "goal": "Give children influence over decisions without requiring public disclosure.",
+      "pre": [
+        "Age-appropriate explanation",
+        "Voluntary assent and appropriate consent",
+        "Accessible withdrawal"
+      ],
+      "steps": [
+        "Ask which decisions children want influence over and explain the limits honestly.",
+        "Offer small, supported and accessible participation options with no case stories required.",
+        "Share what changed and why; allow disagreement and withdrawal.",
+        "Avoid asking children to represent an entire identity group or mediate adult conflict."
+      ],
+      "failure": "Popularity voting and public advocacy can exclude or expose children; digital polls are not representative.",
+      "metric": "Outcome: decisions changed through participation; process: participants understand withdrawal and feedback.",
+      "links": [
+        "community",
+        "participation"
+      ],
+      "kind": "Inference",
+      "stop": "Pause if a child fears retaliation, a referral is unsafe, confidentiality cannot be protected, or a proposed action involves coercion. Seek a vetted independent safeguarding professional; do not confront an alleged perpetrator.",
+      "review": "Agree a safe review method and date before acting. A completed checklist is not proof of safety."
+    },
+    {
+      "id": "S21",
+      "title": "Communicate rights through community media",
+      "domain": "Participation",
+      "roles": [
+        "Journalist",
+        "Community leader",
+        "NGO practitioner"
+      ],
+      "time": "30–90 days",
+      "tier": 1,
+      "refs": [
+        "RADIO",
+        "CHARTER"
+      ],
+      "goal": "Reach people with low connectivity through reviewed, non-identifying information.",
+      "pre": [
+        "Safeguarding-trained editor",
+        "Local language review",
+        "Verified referral message"
+      ],
+      "steps": [
+        "Co-design short rights and access messages with trusted local partners.",
+        "Use fictional composites clearly labelled as such, never identifiable child stories.",
+        "Verify each referral and allow safe private questions without public call-in disclosures.",
+        "Review reach and comprehension without logging listeners or children."
+      ],
+      "failure": "Broadcasts can unintentionally identify families through detail or voice.",
+      "metric": "Process: content and referral review; outcome: comprehension through voluntary non-identifying feedback.",
+      "links": [
+        "radio",
+        "community"
+      ],
+      "kind": "Inference",
+      "stop": "Pause if a child fears retaliation, a referral is unsafe, confidentiality cannot be protected, or a proposed action involves coercion. Seek a vetted independent safeguarding professional; do not confront an alleged perpetrator.",
+      "review": "Agree a safe review method and date before acting. A completed checklist is not proof of safety."
+    },
+    {
+      "id": "S22",
+      "title": "Maintain school continuity during disruption",
+      "domain": "Displacement",
+      "roles": [
+        "Educator",
+        "Policymaker",
+        "NGO practitioner"
+      ],
+      "time": "Now–180 days",
+      "tier": 2,
+      "refs": [
+        "SCHOOL24",
+        "UNHCR"
+      ],
+      "goal": "Preserve safe learning during conflict, hazards or displacement.",
+      "pre": [
+        "Local emergency guidance",
+        "Vetted education partners"
+      ],
+      "steps": [
+        "Check current official safety advice; do not map child movements in this app.",
+        "Prepare accessible print or low-bandwidth learning options and safe support contacts.",
+        "Coordinate with trained providers on continuity of nutrition, health and disability support.",
+        "Review re-entry and lost-document barriers when ordinary schooling resumes."
+      ],
+      "failure": "An unsafe learning site or published attendance list can expose children.",
+      "metric": "Outcome: safe continuity and re-entry; balancing: exposure caused by programme participation.",
+      "links": [
+        "schools",
+        "earlywarning",
+        "clinics"
+      ],
+      "kind": "Inference",
+      "stop": "Pause if a child fears retaliation, a referral is unsafe, confidentiality cannot be protected, or a proposed action involves coercion. Seek a vetted independent safeguarding professional; do not confront an alleged perpetrator.",
+      "review": "Agree a safe review method and date before acting. A completed checklist is not proof of safety."
+    },
+    {
+      "id": "S23",
+      "title": "Prevent coercive labour and exploitation",
+      "domain": "Economic exclusion",
+      "roles": [
+        "NGO practitioner",
+        "Legal advocate",
+        "Community leader"
+      ],
+      "time": "Now–90 days",
+      "tier": 1,
+      "refs": [
+        "CHARTER",
+        "WHO18"
+      ],
+      "goal": "Support lawful protection and viable alternatives to exploitation.",
+      "pre": [
+        "Qualified protection partner",
+        "Safe livelihood and learning options"
+      ],
+      "steps": [
+        "Seek a trained assessment without investigating employers or traffickers yourself.",
+        "Arrange lawful health, care and legal referrals with child participation.",
+        "Address school costs and household support barriers through existing schemes.",
+        "Review whether the alternative arrangement remains safe and voluntary."
+      ],
+      "failure": "Public rescue campaigns or abrupt unsupported withdrawal can increase danger.",
+      "metric": "Outcome: access to safe care and learning; process: trained referral completion.",
+      "links": [
+        "legal",
+        "social",
+        "schools"
+      ],
+      "kind": "Inference",
+      "stop": "Pause if a child fears retaliation, a referral is unsafe, confidentiality cannot be protected, or a proposed action involves coercion. Seek a vetted independent safeguarding professional; do not confront an alleged perpetrator.",
+      "review": "Agree a safe review method and date before acting. A completed checklist is not proof of safety."
+    },
+    {
+      "id": "S24",
+      "title": "Prevent coercive marriage and harmful practices",
+      "domain": "Violence prevention",
+      "roles": [
+        "NGO practitioner",
+        "Legal advocate",
+        "Community leader"
+      ],
+      "time": "Now–180 days",
+      "tier": 2,
+      "refs": [
+        "CHARTER",
+        "WHO18"
+      ],
+      "goal": "Support safety and choice through trained, locally informed protection.",
+      "pre": [
+        "Independent specialist partner",
+        "Retaliation plan",
+        "Safe health pathway"
+      ],
+      "steps": [
+        "Treat imminent threats as safeguarding concerns and seek qualified local support.",
+        "Do not approach family or community leaders implicated in coercion without a specialist safety assessment.",
+        "Support lawful remedies, continued learning and economic alternatives.",
+        "Use community prevention work that never identifies an at-risk child."
+      ],
+      "failure": "Family mediation or public denunciation can intensify threats.",
+      "metric": "Outcome: child-defined safety and continued access; process: confidential specialist support.",
+      "links": [
+        "helplines",
+        "legal",
+        "social"
+      ],
+      "kind": "Inference",
+      "stop": "Pause if a child fears retaliation, a referral is unsafe, confidentiality cannot be protected, or a proposed action involves coercion. Seek a vetted independent safeguarding professional; do not confront an alleged perpetrator.",
+      "review": "Agree a safe review method and date before acting. A completed checklist is not proof of safety."
+    },
+    {
+      "id": "S25",
+      "title": "Strengthen clinic-to-protection referrals",
+      "domain": "Health and care",
+      "roles": [
+        "NGO practitioner",
+        "Policymaker",
+        "Caregiver"
+      ],
+      "time": "30–90 days",
+      "tier": 2,
+      "refs": [
+        "WHO18",
+        "UNHCRSERV"
+      ],
+      "goal": "Connect health access to safe support without turning clinics into surveillance points.",
+      "pre": [
+        "Clinical and safeguarding leadership",
+        "Local confidentiality rules"
+      ],
+      "steps": [
+        "Map existing authorised referral pathways and their limits.",
+        "Train staff on respectful, non-leading communication and urgent-care escalation.",
+        "Use consent-aware minimum information exchange through approved systems.",
+        "Audit failed referrals and whether care was delayed by documentation or payment barriers."
+      ],
+      "failure": "Collecting evidence before urgent care or sharing records too widely can cause harm.",
+      "metric": "Process: referral completion and continuity; balancing: care delayed by safeguarding procedures.",
+      "links": [
+        "clinics",
+        "helplines",
+        "registration"
+      ],
+      "kind": "Inference",
+      "stop": "Pause if a child fears retaliation, a referral is unsafe, confidentiality cannot be protected, or a proposed action involves coercion. Seek a vetted independent safeguarding professional; do not confront an alleged perpetrator.",
+      "review": "Agree a safe review method and date before acting. A completed checklist is not proof of safety."
+    },
+    {
+      "id": "S26",
+      "title": "Provide trauma-informed everyday support",
+      "domain": "Health and care",
+      "roles": [
+        "Caregiver",
+        "Educator",
+        "Youth ally"
+      ],
+      "time": "Now–90 days",
+      "tier": 0,
+      "refs": [
+        "WHO18",
+        "CHARTER"
+      ],
+      "goal": "Offer predictability, dignity and choice while connecting to qualified help when needed.",
+      "pre": [
+        "A calm, safe environment",
+        "No promise of clinical treatment"
+      ],
+      "steps": [
+        "Explain what will happen and ask permission before each non-urgent step.",
+        "Offer breaks, accessible communication and practical support without demanding a story.",
+        "Maintain ordinary supportive routines and avoid blame or forced group sharing.",
+        "Seek trained health or psychosocial support for needs beyond your role."
+      ],
+      "failure": "Untrained trauma processing and compulsory disclosure can worsen distress.",
+      "metric": "Outcome: voluntary comfort and choice feedback; process: access to appropriate support.",
+      "links": [
+        "clinics",
+        "community"
+      ],
+      "kind": "Inference",
+      "stop": "Pause if a child fears retaliation, a referral is unsafe, confidentiality cannot be protected, or a proposed action involves coercion. Seek a vetted independent safeguarding professional; do not confront an alleged perpetrator.",
+      "review": "Agree a safe review method and date before acting. A completed checklist is not proof of safety."
+    },
+    {
+      "id": "S27",
+      "title": "Verify referral infrastructure",
+      "domain": "Service systems",
+      "roles": [
+        "NGO practitioner",
+        "Community leader",
+        "Legal advocate"
+      ],
+      "time": "7–30 days",
+      "tier": 1,
+      "refs": [
+        "CHI",
+        "UNHCRLEGAL"
+      ],
+      "goal": "Build a usable local directory without pretending a national listing is a live service.",
+      "pre": [
+        "Public institutional contacts only",
+        "No child or staff private details"
+      ],
+      "steps": [
+        "Confirm official identity, mandate, catchment, cost, opening hours and accessible languages.",
+        "Ask how confidentiality, reporting duties and conflicts of interest are handled.",
+        "Check a backup provider and an offline access route.",
+        "Record verifier role and review date in your own organisation; refresh before use."
+      ],
+      "failure": "A disconnected number or unsafe provider can make a referral worse than no referral.",
+      "metric": "Process: entries checked before use; outcome: referrals accepted without unexpected barriers.",
+      "links": [
+        "helplines",
+        "legal",
+        "clinics"
+      ],
+      "kind": "Inference",
+      "stop": "Pause if a child fears retaliation, a referral is unsafe, confidentiality cannot be protected, or a proposed action involves coercion. Seek a vetted independent safeguarding professional; do not confront an alleged perpetrator.",
+      "review": "Agree a safe review method and date before acting. A completed checklist is not proof of safety."
+    },
+    {
+      "id": "S28",
+      "title": "Use early warning for service continuity",
+      "domain": "Service systems",
+      "roles": [
+        "Policymaker",
+        "NGO practitioner",
+        "Educator"
+      ],
+      "time": "30–180 days",
+      "tier": 2,
+      "refs": [
+        "CEWS",
+        "SCHOOL24"
+      ],
+      "goal": "Prepare continuity using public advisories rather than monitoring people.",
+      "pre": [
+        "Official public advisories",
+        "No individual or group profiling"
+      ],
+      "steps": [
+        "Identify authorised public hazard or disruption information and its uncertainty.",
+        "Agree institutional thresholds for reviewing school, clinic and supply continuity.",
+        "Prepare non-identifying contingency materials and accessible communication.",
+        "Review decisions with safeguarding oversight; do not gather intelligence or label communities as threats."
+      ],
+      "failure": "Rumours and identity-based risk maps can produce persecution.",
+      "metric": "Process: continuity drills and verified advisories; outcome: equitable service availability.",
+      "links": [
+        "earlywarning",
+        "schools",
+        "clinics"
+      ],
+      "kind": "Inference",
+      "stop": "Pause if a child fears retaliation, a referral is unsafe, confidentiality cannot be protected, or a proposed action involves coercion. Seek a vetted independent safeguarding professional; do not confront an alleged perpetrator.",
+      "review": "Agree a safe review method and date before acting. A completed checklist is not proof of safety."
+    },
+    {
+      "id": "S29",
+      "title": "Measure progress without rewarding disclosure",
+      "domain": "Evaluation",
+      "roles": [
+        "Researcher",
+        "NGO practitioner",
+        "Policymaker"
+      ],
+      "time": "30–180 days",
+      "tier": 2,
+      "refs": [
+        "WHOIND",
+        "GST24"
+      ],
+      "goal": "Learn whether implementation helps while watching for harm.",
+      "pre": [
+        "Ethics and safeguarding review for research",
+        "No personal data in this tool"
+      ],
+      "steps": [
+        "Define an outcome, process indicator and balancing measure before starting.",
+        "Specify numerator, denominator, period and missingness; record only safe aggregate values here.",
+        "Interpret increased reports alongside trust, access and independent feedback.",
+        "Stop harmful collection and review differences across groups only when privacy and sample size allow."
+      ],
+      "failure": "Complaint counts can rise when trust improves; small cells and totals can reveal identities.",
+      "metric": "Outcome: pre-specified change with uncertainty; no causal claim from a simple before/after chart.",
+      "links": [
+        "research",
+        "schools"
+      ],
+      "kind": "Inference",
+      "stop": "Pause if a child fears retaliation, a referral is unsafe, confidentiality cannot be protected, or a proposed action involves coercion. Seek a vetted independent safeguarding professional; do not confront an alleged perpetrator.",
+      "review": "Agree a safe review method and date before acting. A completed checklist is not proof of safety."
+    },
+    {
+      "id": "S30",
+      "title": "Improve policy through lawful evidence-based advocacy",
+      "domain": "Accountability",
+      "roles": [
+        "Policymaker",
+        "Journalist",
+        "Legal advocate"
+      ],
+      "time": "3–24 months",
+      "tier": 3,
+      "refs": [
+        "ACERWC",
+        "CHARTER",
+        "WHO16"
+      ],
+      "goal": "Translate verified access barriers into reviewable policy proposals.",
+      "pre": [
+        "Independent legal review",
+        "Non-identifying evidence",
+        "Affected-community input"
+      ],
+      "steps": [
+        "Describe the specific policy barrier and who controls the remedy.",
+        "Compare lawful options and costs with rights obligations and implementation capacity.",
+        "Submit an aggregate, source-linked proposal through an appropriate public process.",
+        "Track commitments, budget, actual delivery and unintended exclusion separately."
+      ],
+      "failure": "Publishing allegations or treating commitments as completed reform undermines safety and evidence quality.",
+      "metric": "Outcome: implemented access improvement; process: accountable budget and review milestones.",
+      "links": [
+        "rights",
+        "legal",
+        "research"
+      ],
+      "kind": "Inference",
+      "stop": "Pause if a child fears retaliation, a referral is unsafe, confidentiality cannot be protected, or a proposed action involves coercion. Seek a vetted independent safeguarding professional; do not confront an alleged perpetrator.",
+      "review": "Agree a safe review method and date before acting. A completed checklist is not proof of safety."
+    },
+    {
+      "id": "S31",
+      "title": "Protect safe routes and ordinary public access",
+      "domain": "Access and disability",
+      "roles": [
+        "Community leader",
+        "Educator",
+        "Policymaker"
+      ],
+      "time": "30–180 days",
+      "tier": 2,
+      "refs": [
+        "WHO16",
+        "SCHOOL24"
+      ],
+      "goal": "Improve physical access without tracking children.",
+      "pre": [
+        "Municipal or school authority",
+        "No location records of children"
+      ],
+      "steps": [
+        "Discuss general barriers such as lighting, accessibility and transport affordability without recording routes of individuals.",
+        "Ask relevant authorities to assess public infrastructure and access risks.",
+        "Prioritise inclusive improvements and transparent maintenance responsibilities.",
+        "Review unintended displacement of hazards and affordability."
+      ],
+      "failure": "Volunteer patrols, location sharing or naming supposedly dangerous groups can become vigilantism or surveillance.",
+      "metric": "Outcome: accessible public services; process: repairs completed and reviewed.",
+      "links": [
+        "schools",
+        "community"
+      ],
+      "kind": "Inference",
+      "stop": "Pause if a child fears retaliation, a referral is unsafe, confidentiality cannot be protected, or a proposed action involves coercion. Seek a vetted independent safeguarding professional; do not confront an alleged perpetrator.",
+      "review": "Agree a safe review method and date before acting. A completed checklist is not proof of safety."
+    },
+    {
+      "id": "S32",
+      "title": "Counter harmful rumours responsibly",
+      "domain": "Racism and exclusion",
+      "roles": [
+        "Journalist",
+        "Community leader",
+        "Educator"
+      ],
+      "time": "7–90 days",
+      "tier": 1,
+      "refs": [
+        "CHARTER",
+        "RADIO"
+      ],
+      "goal": "Reduce discriminatory narratives without amplifying them or naming children.",
+      "pre": [
+        "Trusted local messengers",
+        "Independent fact checking"
+      ],
+      "steps": [
+        "Verify factual claims with credible sources before repeating them.",
+        "Publish a short corrective explanation focused on rights and access, not a list of accused people.",
+        "Use locally reviewed language and avoid restating slurs or identifying targets.",
+        "Monitor voluntary feedback at programme level; stop if coverage increases targeting."
+      ],
+      "failure": "Public debunking can amplify a rumour; identity-based audience targeting is excluded.",
+      "metric": "Outcome: improved comprehension and access; balancing: escalation after publication.",
+      "links": [
+        "radio",
+        "community",
+        "rights"
+      ],
+      "kind": "Inference",
+      "stop": "Pause if a child fears retaliation, a referral is unsafe, confidentiality cannot be protected, or a proposed action involves coercion. Seek a vetted independent safeguarding professional; do not confront an alleged perpetrator.",
+      "review": "Agree a safe review method and date before acting. A completed checklist is not proof of safety."
+    },
+    {
+      "id": "S33",
+      "title": "Keep youth-led work within safe boundaries",
+      "domain": "Participation",
+      "roles": [
+        "Youth ally",
+        "Educator",
+        "Community leader"
+      ],
+      "time": "7–90 days",
+      "tier": 0,
+      "refs": [
+        "CHARTER",
+        "UREPORT"
+      ],
+      "goal": "Make participation useful without asking young people to carry adult safeguarding duties.",
+      "pre": [
+        "Trusted adult backup",
+        "Opt-out without penalty"
+      ],
+      "steps": [
+        "Choose a small goal such as improving accessible information or reviewing a school policy.",
+        "Agree that youth do not investigate, collect disclosures or contact alleged perpetrators.",
+        "Offer anonymous programme suggestions without collecting identifiable stories.",
+        "Report what adults changed and let participants stop at any time."
+      ],
+      "failure": "Badges or praise can pressure youth to take unsafe public roles.",
+      "metric": "Outcome: a concrete access improvement; no reward for reports, reach or personal disclosure.",
+      "links": [
+        "participation",
+        "schools"
+      ],
+      "kind": "Inference",
+      "stop": "Pause if a child fears retaliation, a referral is unsafe, confidentiality cannot be protected, or a proposed action involves coercion. Seek a vetted independent safeguarding professional; do not confront an alleged perpetrator.",
+      "review": "Agree a safe review method and date before acting. A completed checklist is not proof of safety."
+    },
+    {
+      "id": "S34",
+      "title": "Make protection programmes financially sustainable",
+      "domain": "Service systems",
+      "roles": [
+        "Policymaker",
+        "NGO practitioner"
+      ],
+      "time": "3–24 months",
+      "tier": 3,
+      "refs": [
+        "WHO18",
+        "GSTSCALE"
+      ],
+      "goal": "Fund supervision, referral capacity and access costs before expanding.",
+      "pre": [
+        "Transparent budget",
+        "Local implementer input"
+      ],
+      "steps": [
+        "Cost training, supervision, accessibility, transport and referral follow-up separately.",
+        "Pilot within provider capacity and track staff workload.",
+        "Agree funding and governance for recurrent costs before scale-up.",
+        "Expand only after independent review of safety, quality and unequal access."
+      ],
+      "failure": "Underfunded expansion can make referrals nominal and shift unpaid work to communities.",
+      "metric": "Process: funded supervision and realistic caseloads; outcome: sustained service quality.",
+      "links": [
+        "social",
+        "schools",
+        "clinics"
+      ],
+      "kind": "Inference",
+      "stop": "Pause if a child fears retaliation, a referral is unsafe, confidentiality cannot be protected, or a proposed action involves coercion. Seek a vetted independent safeguarding professional; do not confront an alleged perpetrator.",
+      "review": "Agree a safe review method and date before acting. A completed checklist is not proof of safety."
+    },
+    {
+      "id": "S35",
+      "title": "Create ethical research partnerships",
+      "domain": "Evaluation",
+      "roles": [
+        "Researcher",
+        "NGO practitioner"
+      ],
+      "time": "3–12 months",
+      "tier": 3,
+      "refs": [
+        "WHOIND",
+        "GST24",
+        "PLH"
+      ],
+      "goal": "Generate useful evidence without treating children as sources to extract from.",
+      "pre": [
+        "Independent ethics review",
+        "Child safeguarding resources",
+        "Community governance"
+      ],
+      "steps": [
+        "Define a research question that cannot be answered with safer existing data.",
+        "Separate consent from services and explain withdrawal and confidentiality limits.",
+        "Resource referral support and accessible dissemination before recruitment.",
+        "Report null findings, missingness, context and adverse effects alongside positive results."
+      ],
+      "failure": "A school or caregiver permission alone may not settle consent and assent requirements; legal rules differ.",
+      "metric": "Process: approved protocol and funded safeguarding; outcome: findings returned in accessible forms.",
+      "links": [
+        "research",
+        "community"
+      ],
+      "kind": "Inference",
+      "stop": "Pause if a child fears retaliation, a referral is unsafe, confidentiality cannot be protected, or a proposed action involves coercion. Seek a vetted independent safeguarding professional; do not confront an alleged perpetrator.",
+      "review": "Agree a safe review method and date before acting. A completed checklist is not proof of safety."
+    },
+    {
+      "id": "S36",
+      "title": "Maintain an inclusive offline service pathway",
+      "domain": "Service systems",
+      "roles": [
+        "NGO practitioner",
+        "Educator",
+        "Policymaker"
+      ],
+      "time": "7–90 days",
+      "tier": 1,
+      "refs": [
+        "GSMA26",
+        "CRVS"
+      ],
+      "goal": "Keep essential planning and information available without a connection.",
+      "pre": [
+        "Printed information checked",
+        "Device access and retention reviewed"
+      ],
+      "steps": [
+        "Preload the platform over a secure connection and test offline reopening.",
+        "Print non-identifying plans and maintain a locally verified referral sheet separately.",
+        "Offer in-person alternatives to online forms; do not make model downloads a prerequisite.",
+        "Recheck information after outages and restore backups only from trusted sources."
+      ],
+      "failure": "Cached information may be stale; shared-device storage is not confidential.",
+      "metric": "Process: offline drill completed and backup restored; outcome: access during connectivity loss.",
+      "links": [
+        "mobile",
+        "community",
+        "registration"
+      ],
+      "kind": "Inference",
+      "stop": "Pause if a child fears retaliation, a referral is unsafe, confidentiality cannot be protected, or a proposed action involves coercion. Seek a vetted independent safeguarding professional; do not confront an alleged perpetrator.",
+      "review": "Agree a safe review method and date before acting. A completed checklist is not proof of safety."
+    }
+  ],
+  "infrastructures": [
+    {
+      "id": "schools",
+      "name": "Public schools and education focal points",
+      "sector": "Schools",
+      "region": "All regions",
+      "country": "Country-specific",
+      "refs": [
+        "UNESCO25",
+        "SCHOOL24"
+      ],
+      "access": "Use the official education authority and a trusted school safeguarding contact.",
+      "verify": "Admission, fees, disability access, language, complaint independence and continuity.",
+      "risk": "An implicated school must not be the only referral route.",
+      "status": "Published reference — local availability unverified",
+      "checked": "2026-09-29"
+    },
+    {
+      "id": "gst",
+      "name": "Raising Voices / Good School Toolkit",
+      "sector": "Schools",
+      "region": "Eastern Africa",
+      "country": "Uganda; adaptation elsewhere requires review",
+      "refs": [
+        "GST17",
+        "GST24",
+        "GSTSCALE"
+      ],
+      "access": "Consult programme materials and qualified implementers through the cited studies.",
+      "verify": "Training, supervision, complete programme requirements and applicability.",
+      "risk": "Do not infer long-term effectiveness from short-term findings.",
+      "status": "Published reference — local availability unverified",
+      "checked": "2026-09-29"
+    },
+    {
+      "id": "clinics",
+      "name": "Public clinics and community health systems",
+      "sector": "Clinics",
+      "region": "All regions",
+      "country": "Country-specific",
+      "refs": [
+        "WHO18",
+        "UNHCRSERV"
+      ],
+      "access": "Check the official health authority and trained child-protection health focal point.",
+      "verify": "Urgent-care access, confidentiality, costs, referral capacity and interpretation.",
+      "risk": "No medical records or clinical advice are stored in this platform.",
+      "status": "Published reference — local availability unverified",
+      "checked": "2026-09-29"
+    },
+    {
+      "id": "legal",
+      "name": "National legal aid and independent rights organisations",
+      "sector": "Legal aid",
+      "region": "All regions",
+      "country": "Country-specific",
+      "refs": [
+        "CHARTER",
+        "UNHCRLEGAL"
+      ],
+      "access": "Find a licensed or otherwise authorised provider through official directories.",
+      "verify": "Jurisdiction, child expertise, fees, conflict of interest, deadlines and capacity.",
+      "risk": "A continental instrument does not replace domestic legal advice.",
+      "status": "Published reference — local availability unverified",
+      "checked": "2026-09-29"
+    },
+    {
+      "id": "lhr",
+      "name": "Lawyers for Human Rights",
+      "sector": "Legal aid",
+      "region": "Southern Africa",
+      "country": "South Africa",
+      "refs": [
+        "UNHCRLEGAL"
+      ],
+      "access": "UNHCR lists offices serving Gauteng, KwaZulu-Natal and Limpopo.",
+      "verify": "Confirm provincial remit and current intake through the official linked page.",
+      "risk": "Do not transmit status or case details before verifying a safe channel.",
+      "status": "Published reference — local availability unverified",
+      "checked": "2026-09-29"
+    },
+    {
+      "id": "uct",
+      "name": "UCT Refugee Rights Unit",
+      "sector": "Legal aid",
+      "region": "Southern Africa",
+      "country": "South Africa: Western Cape",
+      "refs": [
+        "UNHCRLEGAL"
+      ],
+      "access": "Use UNHCR’s legal-assistance listing for the official referral.",
+      "verify": "Current remit, appointment access and child-specific support.",
+      "risk": "Directory listing is not an appointment or guarantee of representation.",
+      "status": "Published reference — local availability unverified",
+      "checked": "2026-09-29"
+    },
+    {
+      "id": "nmu",
+      "name": "Nelson Mandela University Refugee Rights Centre",
+      "sector": "Legal aid",
+      "region": "Southern Africa",
+      "country": "South Africa: Eastern Cape",
+      "refs": [
+        "UNHCRLEGAL"
+      ],
+      "access": "Use the UNHCR provincial legal-assistance directory.",
+      "verify": "Current eligibility, capacity and safe communication.",
+      "risk": "Do not assume free representation is available for every matter.",
+      "status": "Published reference — local availability unverified",
+      "checked": "2026-09-29"
+    },
+    {
+      "id": "helplines",
+      "name": "Child Helpline International country directory",
+      "sector": "Helplines",
+      "region": "All regions",
+      "country": "Country-specific",
+      "refs": [
+        "CHI"
+      ],
+      "access": "Choose the country in the cited directory; no universal emergency number is assumed.",
+      "verify": "Hours, language, age range, cost, confidentiality and reporting duties.",
+      "risk": "Not every country has a helpline; numbers and capacity change.",
+      "status": "Published reference — local availability unverified",
+      "checked": "2026-09-29"
+    },
+    {
+      "id": "help-kenya",
+      "name": "Childline Kenya",
+      "sector": "Helplines",
+      "region": "Eastern Africa",
+      "country": "Kenya",
+      "refs": [
+        "CHI"
+      ],
+      "access": "Organisation appears in Child Helpline International’s directory.",
+      "verify": "Confirm current service, geography, hours, language, cost and safe contact method.",
+      "risk": "Published listing only; no live response test performed.",
+      "status": "Published reference — local availability unverified",
+      "checked": "2026-09-29"
+    },
+    {
+      "id": "help-uganda",
+      "name": "Sauti",
+      "sector": "Helplines",
+      "region": "Eastern Africa",
+      "country": "Uganda",
+      "refs": [
+        "CHI"
+      ],
+      "access": "Organisation appears in Child Helpline International’s directory.",
+      "verify": "Confirm current service, geography, hours, language, cost and safe contact method.",
+      "risk": "Published listing only; no live response test performed.",
+      "status": "Published reference — local availability unverified",
+      "checked": "2026-09-29"
+    },
+    {
+      "id": "help-senegal",
+      "name": "Centre GINDDI",
+      "sector": "Helplines",
+      "region": "Western Africa",
+      "country": "Senegal",
+      "refs": [
+        "CHI"
+      ],
+      "access": "Organisation appears in Child Helpline International’s directory.",
+      "verify": "Confirm current service, geography, hours, language, cost and safe contact method.",
+      "risk": "Published listing only; no live response test performed.",
+      "status": "Published reference — local availability unverified",
+      "checked": "2026-09-29"
+    },
+    {
+      "id": "help-namibia",
+      "name": "LifeLine/ChildLine Namibia",
+      "sector": "Helplines",
+      "region": "Southern Africa",
+      "country": "Namibia",
+      "refs": [
+        "CHI"
+      ],
+      "access": "Organisation appears in Child Helpline International’s directory.",
+      "verify": "Confirm current service, geography, hours, language, cost and safe contact method.",
+      "risk": "Published listing only; no live response test performed.",
+      "status": "Published reference — local availability unverified",
+      "checked": "2026-09-29"
+    },
+    {
+      "id": "help-mozambique",
+      "name": "Linha Fala Crianca",
+      "sector": "Helplines",
+      "region": "Southern Africa",
+      "country": "Mozambique",
+      "refs": [
+        "CHI"
+      ],
+      "access": "Organisation appears in Child Helpline International’s directory.",
+      "verify": "Confirm current service, geography, hours, language, cost and safe contact method.",
+      "risk": "Published listing only; no live response test performed.",
+      "status": "Published reference — local availability unverified",
+      "checked": "2026-09-29"
+    },
+    {
+      "id": "help-mauritania",
+      "name": "LATEF",
+      "sector": "Helplines",
+      "region": "Northern/Western Africa",
+      "country": "Mauritania",
+      "refs": [
+        "CHI"
+      ],
+      "access": "Organisation appears in Child Helpline International’s directory.",
+      "verify": "Confirm current service, geography, hours, language, cost and safe contact method.",
+      "risk": "Published listing only; no live response test performed.",
+      "status": "Published reference — local availability unverified",
+      "checked": "2026-09-29"
+    },
+    {
+      "id": "help-drc",
+      "name": "Tukinge Watoto",
+      "sector": "Helplines",
+      "region": "Central Africa",
+      "country": "Democratic Republic of Congo",
+      "refs": [
+        "CHI"
+      ],
+      "access": "Organisation appears in Child Helpline International’s directory.",
+      "verify": "Confirm current service, geography, hours, language, cost and safe contact method.",
+      "risk": "Published listing only; no live response test performed.",
+      "status": "Published reference — local availability unverified",
+      "checked": "2026-09-29"
+    },
+    {
+      "id": "mobile",
+      "name": "Mobile operators and assisted digital access",
+      "sector": "Mobile networks",
+      "region": "All regions",
+      "country": "Country-specific",
+      "refs": [
+        "GSMA26"
+      ],
+      "access": "Work through official operator or public digital-inclusion programmes.",
+      "verify": "Coverage at service location, cost, shared-device risk and non-digital alternatives.",
+      "risk": "Never infer access from national penetration or require tracking/biometrics.",
+      "status": "Published reference — local availability unverified",
+      "checked": "2026-09-29"
+    },
+    {
+      "id": "community",
+      "name": "Community, disability and faith institutions",
+      "sector": "Community institutions",
+      "region": "All regions",
+      "country": "Locally selected",
+      "refs": [
+        "CHARTER",
+        "WHO18"
+      ],
+      "access": "Partner selection is a local heuristic, not an endorsed directory.",
+      "verify": "Safeguarding policy, inclusion, conflicts of interest and independent referral route.",
+      "risk": "Community authority does not establish safety; implicated leaders must be bypassed.",
+      "status": "Published reference — local availability unverified",
+      "checked": "2026-09-29"
+    },
+    {
+      "id": "registration",
+      "name": "Civil registration offices / APAI-CRVS",
+      "sector": "Civil registration",
+      "region": "All regions",
+      "country": "Country-specific",
+      "refs": [
+        "CRVS",
+        "BIRTH25"
+      ],
+      "access": "Verify national registrar rules and official access points.",
+      "verify": "Late registration, fees, alternatives, certificate issuance and offline access.",
+      "risk": "No identity documents, biometrics or child records belong in this tool.",
+      "status": "Published reference — local availability unverified",
+      "checked": "2026-09-29"
+    },
+    {
+      "id": "social",
+      "name": "Social protection departments and benefit schemes",
+      "sector": "Social protection",
+      "region": "All regions",
+      "country": "Country-specific",
+      "refs": [
+        "WHO16",
+        "SASSA"
+      ],
+      "access": "Use current official scheme guidance and safe assisted access.",
+      "verify": "Eligibility, appeals, documents, costs, accessibility and benefit conditions.",
+      "risk": "No automatic eligibility decisions or inferred citizenship status.",
+      "status": "Published reference — local availability unverified",
+      "checked": "2026-09-29"
+    },
+    {
+      "id": "sassa",
+      "name": "SASSA Child Support Grant",
+      "sector": "Social protection",
+      "region": "Southern Africa",
+      "country": "South Africa",
+      "refs": [
+        "SASSA"
+      ],
+      "access": "Open the government service page for current instructions.",
+      "verify": "Current eligibility, alternatives for missing documents and appeal options.",
+      "risk": "No grant amount is embedded; this is not an application portal.",
+      "status": "Published reference — local availability unverified",
+      "checked": "2026-09-29"
+    },
+    {
+      "id": "radio",
+      "name": "Farm Radio International broadcasting partners",
+      "sector": "Media",
+      "region": "Multiple regions",
+      "country": "Multiple African countries",
+      "refs": [
+        "RADIO"
+      ],
+      "access": "Use the network’s official work and partner information.",
+      "verify": "Editorial independence, local language and child-safeguarding capacity.",
+      "risk": "Network presence is not certification as a protection provider.",
+      "status": "Published reference — local availability unverified",
+      "checked": "2026-09-29"
+    },
+    {
+      "id": "participation",
+      "name": "UNICEF U-Report",
+      "sector": "Participation",
+      "region": "Multiple regions",
+      "country": "Check country availability",
+      "refs": [
+        "UREPORT"
+      ],
+      "access": "Explore official country channels after reviewing consent and privacy.",
+      "verify": "Age suitability, data handling, phone costs and offline participation.",
+      "risk": "External services have their own policies; polls are not representative.",
+      "status": "Published reference — local availability unverified",
+      "checked": "2026-09-29"
+    },
+    {
+      "id": "earlywarning",
+      "name": "AU Continental Early Warning System",
+      "sector": "Early warning",
+      "region": "Continental",
+      "country": "Institutional channel",
+      "refs": [
+        "CEWS"
+      ],
+      "access": "Institutional reference for public preparedness and continuity planning.",
+      "verify": "Current official mandate and authorised public advisories.",
+      "risk": "Not an emergency dispatch or permission to monitor communities.",
+      "status": "Published reference — local availability unverified",
+      "checked": "2026-09-29"
+    },
+    {
+      "id": "refugee",
+      "name": "UNHCR country HELP and partner services",
+      "sector": "Protection",
+      "region": "All regions",
+      "country": "Country-specific",
+      "refs": [
+        "UNHCR",
+        "UNHCRSERV"
+      ],
+      "access": "Use the official country help pages to find service information.",
+      "verify": "Eligibility, capacity, free services, fraud risks and safe contact options.",
+      "risk": "Do not disclose location or immigration status on public channels.",
+      "status": "Published reference — local availability unverified",
+      "checked": "2026-09-29"
+    },
+    {
+      "id": "rights",
+      "name": "ACERWC and national child-rights institutions",
+      "sector": "Rights mechanisms",
+      "region": "Continental",
+      "country": "Country-specific jurisdiction",
+      "refs": [
+        "ACERWC",
+        "CHARTER"
+      ],
+      "access": "Consult official guidance and qualified legal assistance.",
+      "verify": "Jurisdiction, admissibility, remedies, deadlines and anti-retaliation measures.",
+      "risk": "Not an immediate rescue service.",
+      "status": "Published reference — local availability unverified",
+      "checked": "2026-09-29"
+    },
+    {
+      "id": "research",
+      "name": "Universities and independent evaluation partners",
+      "sector": "Research",
+      "region": "All regions",
+      "country": "Locally selected",
+      "refs": [
+        "WHOIND",
+        "GST24",
+        "PLH"
+      ],
+      "access": "Choose partners with child-protection expertise and ethical review capacity.",
+      "verify": "Independent ethics review, safeguarding budget and transparent reporting.",
+      "risk": "Academic affiliation alone is not a safeguarding endorsement.",
+      "status": "Published reference — local availability unverified",
+      "checked": "2026-09-29"
+    }
+  ],
+  "guides": [
+    {
+      "id": "G1",
+      "title": "Start with one safe improvement",
+      "body": "Choose one barrier to access and one concrete improvement. Verify a safe referral option, agree who owns the work, and set a review date. If a child is at immediate risk, use the safety pathway instead of completing programme forms.",
+      "kind": "Heuristic"
+    },
+    {
+      "id": "G2",
+      "title": "Evidence is not the same as a suggestion",
+      "body": "Evidence cards describe what a source reports. Strategy steps are an editorial synthesis, labelled Inference. Readiness thresholds and time ranges are Heuristics. Your notes, progress and measures are User-entered. None of these become verified facts when shared.",
+      "kind": "Heuristic"
+    },
+    {
+      "id": "G3",
+      "title": "A theory of change in plain language",
+      "body": "Write: if we change this procedure, then this access barrier should reduce, because of this mechanism. List assumptions and at least one plausible way it could fail. Measure the intended outcome and unintended harm separately.",
+      "kind": "Heuristic"
+    },
+    {
+      "id": "G4",
+      "title": "Three implementation tiers, plus system reform",
+      "body": "Tier 0: low-resource, non-case planning and safe information. Tier 1: coordinated referrals and local institutional changes with verified partners. Tier 2: supervised programmes, dedicated budget and safeguarding governance. Tier 3: legal, policy, evaluation or scale work with specialist oversight. Higher tier is not a better moral score.",
+      "kind": "Heuristic"
+    },
+    {
+      "id": "G5",
+      "title": "What you can do independently",
+      "body": "Improve your own policies, check public information, prepare accessible materials and fund vetted support. Decisions about a child, someone else’s data, clinical treatment, legal representation or research participation require the relevant authority, consent and professional process. “Unilateral” never means overriding rights.",
+      "kind": "Heuristic"
+    },
+    {
+      "id": "G6",
+      "title": "Trauma-informed communication",
+      "body": "Use predictable explanations, practical choices and a calm pace. Avoid blame, leading questions, forced retelling, promises of secrecy, mandatory reconciliation and public storytelling. Listen to the child’s preferences while explaining legal limits with qualified local help.",
+      "kind": "Heuristic"
+    },
+    {
+      "id": "G7",
+      "title": "Anti-retaliation review",
+      "body": "Before disclosure or action, consider who might learn of it, what access could be lost, whether the intended recipient is implicated, and what alternative support exists. Agree a safe contact method. Stop if the plan increases exposure and seek an independent professional route.",
+      "kind": "Heuristic"
+    },
+    {
+      "id": "G8",
+      "title": "Local legal review",
+      "body": "Ask a qualified adviser about the applicable jurisdiction, mandatory reporting duties, consent and assent rules, deadlines, documentation alternatives and confidentiality exceptions. This bundle provides general rights-based planning, not country-specific legal advice.",
+      "kind": "Heuristic"
+    },
+    {
+      "id": "G9",
+      "title": "Choosing a referral partner",
+      "body": "Check official identity, competence, opening hours, cost, language, accessibility, eligibility, confidentiality, reporting duties and conflicts. Agree how to know whether a referral was accepted without circulating case details. Reverify before use and keep a backup.",
+      "kind": "Heuristic"
+    },
+    {
+      "id": "G10",
+      "title": "Budget before scale",
+      "body": "Include supervision, accessibility, translation, transport, safeguarding response, maintenance and independent evaluation. Do not price only training sessions or device purchases. A service that cannot accept referrals is not ready to scale.",
+      "kind": "Heuristic"
+    },
+    {
+      "id": "G11",
+      "title": "Interpret change carefully",
+      "body": "A higher complaint count may mean more harm, better trust, improved reporting or all three. A lower count can mean fear. Compare multiple indicators, explain missingness and avoid causal claims from a simple before/after comparison.",
+      "kind": "Heuristic"
+    },
+    {
+      "id": "G12",
+      "title": "Privacy and small numbers",
+      "body": "This is a programme planner, not a case-management database. Use no names, contact details, precise locations, identity documents, allegations or child stories. Aggregate data can still identify people. Avoid small subgroups and complementary totals that allow subtraction. A count threshold alone is not anonymisation.",
+      "kind": "Heuristic"
+    },
+    {
+      "id": "G13",
+      "title": "Safe participation",
+      "body": "Participation must be voluntary, accessible, age-appropriate and possible to stop. Explain what will change and what cannot. Do not make access to services conditional on surveys, publicity or platform use. Youth should never investigate abuse or carry adult reporting duties.",
+      "kind": "Heuristic"
+    },
+    {
+      "id": "G14",
+      "title": "Adapting across Africa",
+      "body": "Start with country law, languages, rural/urban context, disability access, migration status, institutional capacity and local histories of exclusion. Evidence from one district in Uganda or South Africa is not evidence for every African country. North African and conflict-affected settings need additional local research.",
+      "kind": "Heuristic"
+    },
+    {
+      "id": "G15",
+      "title": "Print and low bandwidth",
+      "body": "Core content uses system fonts and no external images. Print the current route or the printable handbook. Preload through HTTPS or localhost to cache core assets. A file opened directly can read core content, but installation, peer tabs and storage vary by browser.",
+      "kind": "Heuristic"
+    },
+    {
+      "id": "G16",
+      "title": "Backups and recovery",
+      "body": "Export a JSON backup regularly and keep it in a protected location. Backups are plaintext. Import validates format, allowed fields, size and version, then asks you to replace local state; a pre-import snapshot is saved when storage works. Future schema versions are rejected rather than guessed.",
+      "kind": "Heuristic"
+    },
+    {
+      "id": "G17",
+      "title": "Collaboration without hidden sharing",
+      "body": "Local mode connects tabs on the same browser origin after explicit joining. Online mode downloads Trystero and contacts public signalling/ICE services. Share only a previewed catalogue-based plan snapshot. No notes, measures, acknowledgements or local research entries are shared. A recipient must choose to apply it.",
+      "kind": "Heuristic"
+    },
+    {
+      "id": "G18",
+      "title": "Protocol and late joins",
+      "body": "Peers exchange app/protocol/schema metadata automatically only after joining. Incompatible protocol/schema messages are rejected. A late join does not receive personal state automatically: a participant presses Share reviewed snapshot. Snapshots have revision and message IDs; conflicts remain explicit replacements, never silent merges.",
+      "kind": "Heuristic"
+    },
+    {
+      "id": "G19",
+      "title": "Optional local AI",
+      "body": "The deterministic guide works without a model. Optional WebLLM downloads third-party code and model files only after a button press. Inference runs locally, but download hosts see network metadata. Only fixed, non-identifying learning prompts are accepted. Generated text is unverified and cannot execute actions or change plans.",
+      "kind": "Heuristic"
+    },
+    {
+      "id": "G20",
+      "title": "Hardware-aware choices",
+      "body": "Browser device memory is approximate and often absent; it is not GPU VRAM. Use the deterministic guide on constrained or unknown hardware. If WebGPU works and there is ample memory and disk space, try the smallest offered model first. Model metadata guides selection; successful loading is the compatibility test.",
+      "kind": "Heuristic"
+    },
+    {
+      "id": "G21",
+      "title": "Network and dependency review",
+      "body": "Core use makes same-origin requests for static assets and service-worker updates. Optional model and peer modules load pinned CDN packages with their own dependencies. No analytics, geolocation, camera, microphone, push notifications or contact scanning are included. External source links navigate only when clicked.",
+      "kind": "Heuristic"
+    },
+    {
+      "id": "G22",
+      "title": "Research ledger workflow",
+      "body": "Record the question, exact source URL, publication date, study design, geography, population, finding and limitations. Distinguish full-text review from abstract or search extract. Log contradictory findings and when an entry needs review. A user-added ledger item remains unverified until a human review outside this tool.",
+      "kind": "Heuristic"
+    },
+    {
+      "id": "G23",
+      "title": "Safe programme monitoring",
+      "body": "Choose one outcome, one delivery measure and one balancing measure. Define the numerator and denominator in advance, use the same time window, note missing data and consider who is excluded. This app’s aggregate calculator is descriptive and cannot diagnose safety or compare children.",
+      "kind": "Heuristic"
+    },
+    {
+      "id": "G24",
+      "title": "Maintenance and review",
+      "body": "Nominate a content owner and safeguarding reviewer. Recheck service availability before referral, legal rules before action and technical dependencies before release. Maintain a change log. The research cutoff is 2026-09-29; no automatic research update is claimed.",
+      "kind": "Heuristic"
+    },
+    {
+      "id": "G25",
+      "title": "Facilitator workshop: 60 minutes",
+      "body": "0–10: explain boundaries and choose a fictional scenario. 10–20: map one access barrier. 20–35: select a strategy and verify assumptions. 35–45: rehearse an anti-retaliation and stop decision. 45–55: choose measures and responsibilities. 55–60: agree review and destroy unneeded notes. Never invite personal disclosures in the group.",
+      "kind": "Heuristic"
+    },
+    {
+      "id": "G26",
+      "title": "Country adaptation worksheet",
+      "body": "Record country and broad service area outside this app if sensitive. Review legal duties with counsel; confirm institutions; translate and user-test materials; budget access costs; establish independent complaints; pilot with adult programme staff; review child participation ethically; document unresolved gaps before scale.",
+      "kind": "Heuristic"
+    }
+  ],
+  "scope": {
+    "referenceHtml": "Feature Fusion Foundry HTML.html inspected 2026-09-29; 912 feature cards inventoried; feature provenance is in docs/FOUNDRY-ADAPTATION.md.",
+    "priorConversation": "Cached preview only; complete source chat unavailable.",
+    "coverage": "Broad curated bank, not an exhaustive systematic review, all-country legal guide or live referral directory."
+  }
+}

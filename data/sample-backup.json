@@ -1,0 +1,28 @@
+{
+  "schema": 3,
+  "revision": 0,
+  "updated": "2026-09-29T13:15:50.162Z",
+  "role": "Educator",
+  "plan": [
+    "S03",
+    "S27",
+    "S36"
+  ],
+  "gates": [],
+  "tasks": {},
+  "notes": "FICTIONAL PROGRAMME EXAMPLE: education team to verify one independent referral route, prepare a plain-language access sheet and review it next month. No cases or personal data.",
+  "settings": {
+    "theme": "system",
+    "motion": false,
+    "engagement": true
+  },
+  "metrics": [
+    {
+      "type": "Referral completion",
+      "period": "2026-08",
+      "n": 24,
+      "d": 30
+    }
+  ],
+  "ledger": []
+}

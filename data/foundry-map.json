@@ -1,0 +1,237 @@
+{
+  "reference": "Feature Fusion Foundry HTML.html",
+  "sha256": "D98206C273B2725B22FE69879C100D2C7AAEBFF0D7810E703AD930DA8EB562E5",
+  "inspected": "2026-09-29",
+  "cardsInventoried": 912,
+  "implementation": "Independent implementation of selected concepts; embedded reference instructions not executed.",
+  "features": [
+    {
+      "id": "f263",
+      "name": "Command palette",
+      "implementation": "Search sections, strategies and tools with Ctrl/Cmd+K.",
+      "surface": "Command button"
+    },
+    {
+      "id": "f660",
+      "name": "Keyboard shortcut map",
+      "implementation": "Ctrl/Cmd+K for commands; Alt+Shift+F for focus. Native editing shortcuts stay unchanged.",
+      "surface": "Command palette"
+    },
+    {
+      "id": "f387",
+      "name": "Saved searches",
+      "implementation": "Save and reuse up to 20 catalogue searches.",
+      "surface": "Search bar / My workspace"
+    },
+    {
+      "id": "f103",
+      "name": "Faceted search",
+      "implementation": "Existing domain/tier/role filters plus a board status filter.",
+      "surface": "Strategy bank / Task board"
+    },
+    {
+      "id": "f778",
+      "name": "Customizable dashboard",
+      "implementation": "Choose which local workspace widgets appear.",
+      "surface": "My workspace"
+    },
+    {
+      "id": "f781",
+      "name": "Focus mode",
+      "implementation": "Hide navigation chrome while preserving a fixed exit control.",
+      "surface": "Workspace toolbar"
+    },
+    {
+      "id": "f163",
+      "name": "High contrast",
+      "implementation": "High-contrast palette plus forced-colors support.",
+      "surface": "Reading controls"
+    },
+    {
+      "id": "f656",
+      "name": "Reading typography",
+      "implementation": "Adjust font size and line spacing without external fonts.",
+      "surface": "Reading controls"
+    },
+    {
+      "id": "f782",
+      "name": "Interactive onboarding",
+      "implementation": "Four optional guided tasks using the actual workspace.",
+      "surface": "Foundry additions"
+    },
+    {
+      "id": "f432",
+      "name": "Undo/redo history",
+      "implementation": "Revert up to 25 session changes; destructive erase clears history.",
+      "surface": "Change history"
+    },
+    {
+      "id": "f115",
+      "name": "Version differences",
+      "implementation": "Inspect field-level changes and preview backups before restoring.",
+      "surface": "Change history / Settings"
+    },
+    {
+      "id": "f229",
+      "name": "Workflow templates",
+      "implementation": "Create a non-identifying programme workflow from selected strategies.",
+      "surface": "Task board"
+    },
+    {
+      "id": "f316",
+      "name": "Goal-to-task hierarchy",
+      "implementation": "Tasks link back to a selected public strategy.",
+      "surface": "Task board"
+    },
+    {
+      "id": "f317",
+      "name": "Dependency graph",
+      "implementation": "Inspect prerequisite relationships without mapping people.",
+      "surface": "Task board"
+    },
+    {
+      "id": "f739",
+      "name": "Blocking detection",
+      "implementation": "Prevents completion while a prerequisite is unfinished; cycles are rejected.",
+      "surface": "Task board"
+    },
+    {
+      "id": "f306",
+      "name": "Responsibility matrix",
+      "implementation": "Assign work to role categories, never named children or caseworkers.",
+      "surface": "Task board"
+    },
+    {
+      "id": "f734",
+      "name": "Recurring tasks",
+      "implementation": "Manually create the next weekly/monthly occurrence; no background scheduler.",
+      "surface": "Task board"
+    },
+    {
+      "id": "f180",
+      "name": "Timeline",
+      "implementation": "View dated programme tasks in chronological order.",
+      "surface": "Task board"
+    },
+    {
+      "id": "f744",
+      "name": "Weighted comparison",
+      "implementation": "Compare up to four strategies using explicit user-entered weights/ratings.",
+      "surface": "Compare strategies"
+    },
+    {
+      "id": "f747",
+      "name": "Scenario comparison",
+      "implementation": "Compare budget contingencies and programme choices transparently.",
+      "surface": "Budget lab / Compare"
+    },
+    {
+      "id": "f762",
+      "name": "Calculation provenance",
+      "implementation": "Display calculation formulas, currency and assumptions.",
+      "surface": "Budget lab"
+    },
+    {
+      "id": "f234",
+      "name": "Risk register",
+      "implementation": "Track programme risks, mitigation, role responsibility and review dates.",
+      "surface": "Risks & decisions"
+    },
+    {
+      "id": "f235",
+      "name": "Assumption registry",
+      "implementation": "Track premises, how to check them and challenged assumptions.",
+      "surface": "Risks & decisions"
+    },
+    {
+      "id": "f237",
+      "name": "Decision log",
+      "implementation": "Record rationale and later outcomes.",
+      "surface": "Risks & decisions"
+    },
+    {
+      "id": "f749",
+      "name": "Reversibility review",
+      "implementation": "Flag decisions that are costly to reverse or need specialist review.",
+      "surface": "Risks & decisions"
+    },
+    {
+      "id": "f767",
+      "name": "Review dates",
+      "implementation": "Show overdue programme reviews locally; no notifications or auto-send.",
+      "surface": "My workspace"
+    },
+    {
+      "id": "f107",
+      "name": "Knowledge graph",
+      "implementation": "Explore typed strategy/source/infrastructure links.",
+      "surface": "Evidence explorer"
+    },
+    {
+      "id": "f570",
+      "name": "SVG export",
+      "implementation": "Export the current public evidence diagram as a standalone vector.",
+      "surface": "Evidence explorer"
+    },
+    {
+      "id": "f585",
+      "name": "Evidence tension links",
+      "implementation": "Show short-term/long-term and informant differences without treating them as identical outcomes.",
+      "surface": "Evidence explorer"
+    },
+    {
+      "id": "f100",
+      "name": "Multi-format export",
+      "implementation": "Produce Markdown plans, CSV task/budget tables, SVG diagrams and iCalendar files.",
+      "surface": "Export studio"
+    },
+    {
+      "id": "f435",
+      "name": "Selective export",
+      "implementation": "Choose public catalogue selections or specific programme tables.",
+      "surface": "Export studio"
+    },
+    {
+      "id": "f088",
+      "name": "Client-side encryption",
+      "implementation": "Optional AES-GCM encrypted full backups with a user-held passphrase.",
+      "surface": "Export studio"
+    },
+    {
+      "id": "f560",
+      "name": "Identifier-warning scan",
+      "implementation": "Flag some email/phone/identity phrases before export; explicitly incomplete.",
+      "surface": "Export studio"
+    },
+    {
+      "id": "f089",
+      "name": "Data inventory",
+      "implementation": "Show counts and storage categories; backups remain local plaintext unless exported encrypted.",
+      "surface": "Export studio"
+    },
+    {
+      "id": "f439",
+      "name": "Storage quota inspection",
+      "implementation": "Show browser-reported quota and usage on request.",
+      "surface": "Diagnostics"
+    },
+    {
+      "id": "f158",
+      "name": "Self-test dashboard",
+      "implementation": "Run small local validation/protocol/CSV checks on request.",
+      "surface": "Diagnostics"
+    },
+    {
+      "id": "f626",
+      "name": "Diagnostic report export",
+      "implementation": "Preview and download capability results; never send them.",
+      "surface": "Diagnostics"
+    },
+    {
+      "id": "f264",
+      "name": "Unified discovery",
+      "implementation": "Search the source-linked catalogue and jump directly through commands.",
+      "surface": "Search / Command palette"
+    }
+  ]
+}
